@@ -1,0 +1,8 @@
+
+[bibliography]
+== Bibliography
+
+* [[[WTOTBT,WTO TBT Agreements]]], World Trade Organization, _The WTO Agreements Series Technical Barriers to Trade_
+
+* [[[CALSTD,CalConnect Standing Document: Document requirements]]], CalConnect Standing Document: _Document requirements_
+

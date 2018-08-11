@@ -1,0 +1,80 @@
+
+[[document-structure]]
+== Document Structure
+
+=== Cover Page
+
+The cover page will contain:
+
+. CalConnect logo or logotype
+
+. Document number
+
+. Document classification (report, recommendation, etc.)
+
+. Document title
+
+. Document version number (e.g.V1.0, etc.) and status (draft, final)
+
+. Date of publication
+
+. Producing committee if appropriate
+
+. Incorporation by reference and hyperlink of the appropriate
+statements of Intellectual Property Rights, Appropriate Usage,
+Trademarks, and Disclaimer of Warranty
+
+=== Editors, Authors and Abstract
+
+The editors, authors and/or contributors, and an abstract should be
+provided if appropriate on a title page or at the beginning of the
+document.
+
+=== Table of Contents
+
+A Table of Contents will be provided unless the document is very short.
+
+=== Sections and Subsections
+
+The body of the document will have section and subsection identifiers
+to make it easy to refer clearly to specific items in the document.
+
+=== Paragraph and Line Numbers
+
+Individual paragraph or line numbers are not required but may be used
+at the discretion of the document editors if they feel it enhances the
+clarity of the document.
+
+=== References
+
+Any informative or normative references will be fully cited at the end
+of the document.
+
+=== Glossary
+
+A glossary may be provided if appropriate.
+
+=== Index
+
+An index may be provided if appropriate.
+
+=== Change Log
+
+A change log shall be provided as an appendix to all documents
+following their original publication.
+
+=== Page Numbers
+
+All documents will have page numbers beginning with the title page or
+first page of the document.
+
+
+=== Copyright Statement
+
+A copyright statement of the form shown below must appear on the cover,
+title, or first page of the document. Note that "`yyyy`" is the 4-digit
+year, such as "`2009".
+
+----
+© yyyy The Calendaring and Scheduling Consortium, Inc. All Rights Reserved.
+----

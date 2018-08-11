@@ -1,0 +1,44 @@
+
+== Introduction
+
+=== General
+
+This document formalizes the processes of publication
+within CalConnect, covering the development and standardization of
+all types of public-facing documents produced by CalConnect, including:
+
+* CalConnect Standards: normative documents through the CalConnect standardization process
+* CalConnect Guides: guidelines
+* CalConnect Specifications: informative specifications for the public
+* CalConnect Reports: internal and public reports, such as reporting on conference and IOP test events.
+
+Some internal documents not meant for public consumption do not go
+through this process.
+
+However, CalConnect Interoperability Test Event
+reports (both the public and internal versions) will go through an
+abbreviated last call and approval by TCC as noted in Section 7
+below.
+
+
+=== Supersedes
+
+This standard supersedes the following documents:
+
+* I0701 CalConnect Document Public Review and Comment
+* I0702 CalConnect Document Classification and Numbering
+* I0703 CalConnect Document Processes and Management
+
+=== Purpose
+
+The purpose of this document is to establish an understanding between
+{collaborative-iso-tc} and The Calendaring and Scheduling Consortium
+(known as "`CalConnect`").
+
+This document formalizes the process of collaboration of {collaborative-iso-tc}
+and CalConnect to co-operate and to
+enable the collaborative development of standards.
+
+The resulting standards are to be jointly published by {collaborative-iso-tc}
+in accordance to the ISO process, and by CalConnect
+as CalConnect standards.

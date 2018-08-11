@@ -1,0 +1,67 @@
+
+[[numbering]]
+== Document codes
+
+CalConnect implements a numbering system for documents.
+
+A document index will be maintained on the CalConnect
+website with documents listed by number, name, and type.
+
+. The document number shall be of the form `CDn:y`, where `y` is the
+4-digit edition year, and `n` is any selected positive integer.
+
+. The numbering system shall apply to all document types.
+
+. A document shall be assigned its number and placed in the document
+index upon original publication.
+
+. A document will retain the same number when updated but a different
+edition year.
+
+NOTE: Existing documents will be retrofitted to the scheme as practical.
+
+////
+
+=== Trademark and copyright statements
+
+Similar to the process applied on national adoption
+of an ISO deliverable, trademarks and copyright statements
+of both organizations will appear on the document cover page as
+well as in the foreword.
+
+=== Publication dates
+
+The edition year and the year of publishing of a joint deliverable
+shall be identical in the ISO and CalConnect deliverables.
+
+=== Cover page
+
+In ISO and CalConnect deliverables, as well as any further adoptions,
+shall retain the logographic marks of both organizations.
+
+=== Introduction part
+
+The introduction shall state that it is a joint work product
+between {collaborative-iso-tc} and CalConnect.
+
+
+=== Document identifier and references
+
+ISO deliverables published under this agreement will be referenced
+in as ISO/CC in ISO documents, and CalConnect deliverables
+will be referenced as as CC/ISO within CalConnect
+documents.
+
+References will contain sufficient information for those wishing
+to obtain the equivalent documents of the other party to be
+able to do so.
+
+
+=== Project code
+
+A mutually acceptable number will be used for the
+project code, with the goal of achieving identical
+deliverable numbers in {collaborative-iso-tc} and CalConnect to prevent
+potential ambiguity.
+
+////

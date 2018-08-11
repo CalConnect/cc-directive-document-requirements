@@ -1,0 +1,123 @@
+
+//[source="ISODIR1,ISODIR1C,ISODIR2"]
+
+[[terms]]
+== Terms, definitions and abbreviations
+
+=== Terms and definitions
+
+[[term-std-project]]
+==== standardization project
+
+an organized process with one or more standardization work items that
+contributes towards a defined scope of work
+
+[[term-std-work-item]]
+==== standardization work item
+
+publishable work item that creates output that relates
+to standardization within a _standardization project_ (<<term-std-project>>)
+
+[[term-project-owner]]
+==== project owner
+
+entity with authority in charge of a _standardization project_
+(<<term-std-project>>)
+
+[[term-document]]
+==== document
+
+written output of a work item
+
+[[term-cc-deliverable]]
+==== CalConnect deliverable
+
+_document_ (<<term-document>>) that could be a CalConnect Standard,
+Guide, Specification, Report
+
+[[term-iso-deliverable]]
+==== ISO TC deliverable
+
+_document_ (<<term-document>>) of an ISO TC as described in <<ISODIR1>>
+
+NOTE: According to <<ISODIR1>>, ISO TC deliverables include the following types: International Standards, Technical Specifications, Publicly Available Specifications and Technical Reports.
+
+[[term-cc-tc]]
+==== CalConnect technical committee
+alt:[CalConnect TC]
+
+internal committee of CalConnect tasked with a scope of work it
+is responsible for
+
+==== document stage
+
+stage of document as specified in the ISO harmonized stages (as defined in <<ISODIR1C>>)
+
+[[term-std-project-output]]
+==== standardization project output
+
+output of a _standardization project_ (<<term-std-project>>)
+
+NOTE: In this document, it explicitly means any documents and IP rights
+produced by the standardization project.
+
+[[term-sdo]]
+==== standardization body
+alt:[standards-developing organization]
+alt:[SDO]
+
+entity that publishes _standardization work items_ (<<term-std-work-item>>)
+
+
+[[term-std-proposal]]
+==== proposal for standardization
+
+proposal for a new work item for standardization
+
+[[term-co-develop]]
+==== co-develop
+alt:[collaborative development]
+
+act of developing a work item by multiple parties from the proposal stage
+
+[[term-co-publish]]
+==== co-publish
+alt:[collaborative publishing]
+
+act of publishing _documents_ (<<term-document>>) of identical content
+by multiple parties
+
+==== joint work item
+
+work item _co-developed_ (<<term-co-develop>>) by both parties
+
+
+==== joint publication
+
+publication that is _co-published_ (<<term-co-publish>>) by CalConnect with
+an external _standardization body_ (<<term-sdo>>)
+
+NOTE: Both parties may jointly hold copyright of the joint publication.
+
+[[term-jcg]]
+==== Joint Coordination Group
+alt:[JCG]
+
+advisory group with representatives from CalConnect and an external
+_standardization body_ (<<term-sdo>>) on the execution and maintenance of a
+_co-publishing_ (<<term-co-publish>>) agreement
+
+
+[[term-doc-register]]
+==== co-development document register
+
+document register of a list of _co-developed_ (<<term-co-develop>>)
+_documents_ (<<term-document>>) developed under this agreement,
+held by the corresponding _Joint Coordination Group_ (<<term-jcg>>)
+
+
+=== Abbreviations
+
+IPR:: Intellectual Property Rights
+
+TCC:: Technical Coordination Committee
