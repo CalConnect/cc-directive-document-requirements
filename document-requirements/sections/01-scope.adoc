@@ -1,8 +1,7 @@
 
 == Scope
 
-This document addresses publication processes for these defined types
-of documents:
+This document provides requirements on document structure of the following CalConnect publications:
 
 * CalConnect Standards: normative documents through the CalConnect standardization process
 * CalConnect Guides: guidelines
