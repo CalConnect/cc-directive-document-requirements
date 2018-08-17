@@ -1,67 +1,98 @@
 
 [[numbering]]
-== Document codes
+== Project/document identifier
 
-CalConnect implements a numbering system for documents.
+=== General
 
-A document index will be maintained on the CalConnect
+CalConnect implements a numbering system for projects/documents.
+
+=== Project index
+
+A project/document index shall be maintained on the CalConnect
 website with documents listed by number, name, and type.
-
-. The document number shall be of the form `CDn:y`, where `y` is the
-4-digit edition year, and `n` is any selected positive integer.
-
-. The numbering system shall apply to all document types.
-
-. A document shall be assigned its number and placed in the document
-index upon original publication.
-
-. A document will retain the same number when updated but a different
-edition year.
-
-NOTE: Existing documents will be retrofitted to the scheme as practical.
-
-////
-
-=== Trademark and copyright statements
-
-Similar to the process applied on national adoption
-of an ISO deliverable, trademarks and copyright statements
-of both organizations will appear on the document cover page as
-well as in the foreword.
-
-=== Publication dates
-
-The edition year and the year of publishing of a joint deliverable
-shall be identical in the ISO and CalConnect deliverables.
-
-=== Cover page
-
-In ISO and CalConnect deliverables, as well as any further adoptions,
-shall retain the logographic marks of both organizations.
-
-=== Introduction part
-
-The introduction shall state that it is a joint work product
-between {collaborative-iso-tc} and CalConnect.
-
-
-=== Document identifier and references
-
-ISO deliverables published under this agreement will be referenced
-in as ISO/CC in ISO documents, and CalConnect deliverables
-will be referenced as as CC/ISO within CalConnect
-documents.
-
-References will contain sufficient information for those wishing
-to obtain the equivalent documents of the other party to be
-able to do so.
 
 
 === Project code
 
-A mutually acceptable number will be used for the
-project code, with the goal of achieving identical
-deliverable numbers in {collaborative-iso-tc} and CalConnect to prevent
+. The project code shall be of the form `[n]`, where `[n]` is any selected positive integer
+of less than 5 digits.
+
+. The numbering system applies to all project types.
+
+. The project code shall be assigned on proposal acceptance
+of the project.
+
+. Co-published documents shall attempt to use an identical project
+code in both CalConnect and at the collaborative publisher to prevent
 potential ambiguity.
 
-////
+
+=== Document identifier
+
+==== Representation
+
+The document identifier takes the form of `[type][stage] [code][:][y]`, where:
+
+* `[type]` is the document identifier prefix;
+* `[stage]` is the document stage;
+* `[code]` is the project code of the project that created the document; and
+* `[y]` is the 4-digit edition year.
+
+
+==== Edition year
+
+A document will retain the same number when updated but a different
+edition year.
+
+
+==== Co-publishing
+
+Co-published documents shall incorporate codes from all collaborative
+publishing parties in the document identifier, joined together via a
+"`solidus`" sign ("`/`").
+
+[example]
+CalConnect deliverables co-published with ISO are referenced as as "`CC/ISO`",
+with IETF as "`CC/IETF`".
+
+
+==== Document types
+
+Document types shall be represented in the "`type`" as follows:
+
+. Standard, "`CC`"
+
+. Guide, "`CC/Guide`"
+
+. Specification, "`CC/S`"
+
+. Report, "`CC/R`"
+
+[example]
+"`CC/Guide/DS 38002:2018`" is a CalConnect Guide at DS stage with project number 38002, published in 2018.
+
+
+(TODO: Amendments, corrigendum)
+
+
+==== Document stages
+
+Document stages shall be represented in the "`stage`" as follows:
+
+. Published, "``" (blank)
+
+. Final draft standard, "`/FDS`"
+
+. Draft standard, "`/DS`"
+
+. Technical committee draft, "`/CD`"
+
+. Project group draft / Working draft, "`/WD`"
+
+
+[example]
+"`CC/FDS 10668:2018`" is a CalConnect standard document at FDS stage with project number 10668, published in 2018.
+
+
+NOTE: Existing documents can be retrofitted to the scheme as practical.
+

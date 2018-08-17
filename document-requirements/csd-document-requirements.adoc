@@ -1,12 +1,12 @@
-= CalConnect Document Requirements
-:title: CalConnect Document Requirements
-:docnumber: CD 18XX
+= CalConnect Directives: Standard document requirements
+:title: CalConnect Directives: Standard document requirements
+:docnumber: CD 10002
 :copyright-year: 2018
 :language: en
 :doctype: standard
 :edition: 1
 :status: draft
-:revdate: 2018-04-22T00:00:00Z
+:revdate: 2018-08-15T00:00:00Z
 :language: en
 :technical-committee: PUBLISH
 :toc:
@@ -25,6 +25,7 @@ include::sections/02-normrefs.adoc[]
 include::sections/03-terms.adoc[]
 include::sections/04-requirements.adoc[]
 include::sections/05-structure.adoc[]
+
 include::sections/99-bibliography.adoc[]
 
 

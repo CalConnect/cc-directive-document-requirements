@@ -3,12 +3,22 @@
 
 This document provides requirements on document structure of the following CalConnect publications:
 
-* CalConnect Standards: normative documents through the CalConnect standardization process
-* CalConnect Guides: guidelines
-* CalConnect Specifications: informative specifications for the public
-* CalConnect Reports: internal and public reports, such as reporting on conference and IOP test events.
+* Directives
 
-////
-Standardization processes in this document is intended to align
-with <<ISODIR1>> and <<ISODIR1C>>,
-////
+* Standards
+
+* Guides
+
+* Specifications
+
+* Reports
+
+These publication types are described in <<CS10001>>.
+
+This document does not apply to the following types of documents
+produced by CalConnect, although processes described in this document
+can be optionally used as guidance for rigor:
+
+* policy statements;
+* internal administrative documents; and
+* how-to guides.

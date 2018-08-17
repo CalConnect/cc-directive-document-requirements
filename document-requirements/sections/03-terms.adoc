@@ -51,7 +51,7 @@ is responsible for
 
 ==== document stage
 
-stage of document as specified in the ISO harmonized stages (as defined in <<ISODIR1C>>)
+stage of document as specified in the CalConnect stages (as defined in <<CS10001>>)
 
 [[term-std-project-output]]
 ==== standardization project output

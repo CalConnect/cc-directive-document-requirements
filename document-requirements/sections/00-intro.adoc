@@ -1,22 +1,14 @@
 
 == Introduction
 
-=== General
+CalConnect is committed in expanding the realm of open
+collaboration standards across the globe and across communities of
+practice.
 
-This document formalizes the document requirements and structure of publications
-of CalConnect, including:
+To facilitate its mission, the CalConnect Board of Directors has decided
+to align standardization and publication processes with international
+best practices, such as the ISO standardization process, and the
+<<WTOTBT>>.
+This document aims to achieve the said intention.
 
-* CalConnect Standards
-* CalConnect Guides
-* CalConnect Specifications
-* CalConnect Reports
-
-
-=== Supersedes
-
-This standard supersedes the following documents:
-
-* I0701 CalConnect Document Public Review and Comment
-* I0702 CalConnect Document Classification and Numbering
-* I0703 CalConnect Document Processes and Management
-
+The document describes requirements for CalConnect standard documents.

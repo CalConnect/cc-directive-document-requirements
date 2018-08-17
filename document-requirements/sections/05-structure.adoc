@@ -1,80 +1,148 @@
 
 [[document-structure]]
-== Document Structure
+== Document structure
 
-=== Cover Page
+=== General
+
+This section describes the document structure and element
+requirements of a CalConnect standard document.
+
+=== Cover page
 
 The cover page will contain:
 
-. CalConnect logo or logotype
+. CalConnect logo
 
 . Document number
 
-. Document classification (report, recommendation, etc.)
+. Document type
 
 . Document title
 
-. Document version number (e.g.V1.0, etc.) and status (draft, final)
+. Document status
 
 . Date of publication
 
-. Producing committee if appropriate
+. Owning technical committee
 
 . Incorporation by reference and hyperlink of the appropriate
 statements of Intellectual Property Rights, Appropriate Usage,
 Trademarks, and Disclaimer of Warranty
 
-=== Editors, Authors and Abstract
+In co-published deliverables, as well as any further adoptions,
+the document shall retain the logographic marks of the
+publishing organizations.
+
+
+=== Draft warning
+
+This warning must be shown on the cover page for all draft documents.
+
+[quote]
+____
+WARNING FOR DRAFTS
+
+This document is not a CalConnect Standard. It is distributed for review and comment, and is subject to change without notice and may not be referred to as a Standard. Recipients of this draft are invited to submit, with their comments, notification of any relevant patent rights of which they are aware and to provide supporting documentation.
+____
+
+=== Public review note
+
+[quote]
+____
+INSTRUCTIONS FOR REVIEW
+
+This draft is intended for public review. Comments shall be submitted to ...
+____
+
+
+=== Technical committee
+
+The owning technical committee shall be shown on the cover page.
+
+=== Editors, authors and abstract
 
 The editors, authors and/or contributors, and an abstract should be
 provided if appropriate on a title page or at the beginning of the
 document.
 
-=== Table of Contents
 
-A Table of Contents will be provided unless the document is very short.
+=== Table of contents
 
-=== Sections and Subsections
+A Table of Contents shall be provided, unless the document is very short.
+
+
+=== Sections and subsections
 
 The body of the document will have section and subsection identifiers
 to make it easy to refer clearly to specific items in the document.
 
-=== Paragraph and Line Numbers
 
-Individual paragraph or line numbers are not required but may be used
-at the discretion of the document editors if they feel it enhances the
-clarity of the document.
+=== Foreword
 
-=== References
+The foreword shall be the first section of the document, unnumbered.
 
-Any informative or normative references will be fully cited at the end
-of the document.
+
+=== Introduction
+
+The introduction shall be the second section of the document, unnumbered.
+
+
+
+=== Scope
+
+The scope shall always be provided as Section 1.
+
+=== Normative and informative references
+
+The section for normative references should be placed at Section 2 of the document.
+
+Informative references shall be placed at the Bibliography section
+at the end of the document.
+
+References in these sections shall be fully cited.
+
+
+=== Terms
+// TODO: combine when it doesn't crash
+// and definition
+
+The terms and definitions sections shall be placed Section 3 and onwards.
+
 
 === Glossary
 
 A glossary may be provided if appropriate.
 
-=== Index
 
-An index may be provided if appropriate.
+=== Change summary
 
-=== Change Log
+Changes to a document from a previous edition shall be described
+in summarized, bullet-point form at the end of the Foreword.
 
-A change log shall be provided as an appendix to all documents
-following their original publication.
 
-=== Page Numbers
+=== Page numbers
 
 All documents will have page numbers beginning with the title page or
 first page of the document.
 
 
-=== Copyright Statement
+=== Trademark and copyright statement
 
-A copyright statement of the form shown below must appear on the cover,
-title, or first page of the document. Note that "`yyyy`" is the 4-digit
-year, such as "`2009".
+A trademark and copyright statement of the form shown below must
+appear on the cover page and the foreword.
 
-----
-© yyyy The Calendaring and Scheduling Consortium, Inc. All Rights Reserved.
-----
+Note that "`yyyy`" is the 4-digit year, such as "`2009`".
+
+(TODO: add trademark statement)
+
+[quote]
+____
+(c) yyyy The Calendaring and Scheduling Consortium, Inc.
+
+All rights reserved. Unless otherwise specified, no part of this publication may be reproduced or utilized otherwise in any form or by any means, electronic or mechanical, including photocopying, or posting on the internet or an intranet, without prior written permission. Permission can be requested from the address below.
+____
+
+=== Draft documents
+
+Draft documents should clearly indicate on the title page and
+every page of the document that it is a draft document.

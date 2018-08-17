@@ -2,3 +2,4 @@
 [bibliography]
 == Normative References
 
+* [[[CS10001,CS 10001:2018]]], _CalConnect Directives: Standardization and publication_
