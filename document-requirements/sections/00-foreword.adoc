@@ -33,8 +33,7 @@ convenience of users and does not constitute an endorsement.
 This document was prepared by Technical Committee
 _{technical-committee}_.
 
-This document, together with
-CS 10001 "`CalConnect Directives -- Standardization and publication`",
+This document, together with <<CCSTD>>,
 replaces the following documents:
 
 * I0701 CalConnect Document Public Review and Comment

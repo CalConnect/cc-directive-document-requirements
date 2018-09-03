@@ -13,17 +13,17 @@ The cover page will contain:
 
 . CalConnect logo
 
-. Document number
+. Document number (<<project-code>>)
 
-. Document type
+. Document type (<<document-type>>)
 
 . Document title
 
-. Document status
+. Document status (<<document-stage>>)
 
 . Date of publication
 
-. Owning technical committee
+. Responsible technical committee
 
 . Incorporation by reference and hyperlink of the appropriate
 statements of Intellectual Property Rights, Appropriate Usage,
@@ -47,6 +47,12 @@ ____
 
 === Public review note
 
+Certain CalConnect documents are intended for public review, as
+specified in <<CCSTD>>.
+
+The following note must be shown on the cover page for all documents
+intended for public review.
+
 [quote]
 ____
 INSTRUCTIONS FOR REVIEW
@@ -57,73 +63,162 @@ ____
 
 === Technical committee
 
-The owning technical committee shall be shown on the cover page.
+The responsible technical committee shall be shown on the cover page.
 
-=== Editors, authors and abstract
 
-The editors, authors and/or contributors, and an abstract should be
-provided if appropriate on a title page or at the beginning of the
-document.
+=== Contributor acknowledgement
+
+Contributors to the document, including editors, authors, and the
+the project owner (a CalConnect TC) as well as other contributing
+parties, shall be provided if appropriate within the Foreword.
 
 
 === Table of contents
 
-A Table of Contents shall be provided, unless the document is very short.
+A table of contents shall be provided in any user consumable
+format, including HTML, PDF and Word.
+
+This does not apply to standard definition files (CSD XML)
+intended for machine consumption.
+
+The table of contents may be omitted if the document is
+to be provided on paper medium with less than five (5) pages.
 
 
 === Sections and subsections
 
-The body of the document will have section and subsection identifiers
+The body of the document shall have section and subsection identifiers
 to make it easy to refer clearly to specific items in the document.
 
 
+=== Referable document elements
+
+Document elements including numbered list items, examples, and notes shall be numbered
+uniquely within a clause.
+Such elements shall be cited within the document by their number and containing clause.
+
+[example]
+"Clause 3 a)"
+
+[example]
+"6.3.3 a)"
+
+[example]
+"8.2 Note 3"
+
+[example]
+"2.6 Example 9"
+
+
+Tables, figures, formulas shall be numbered uniquely within
+the document.
+Such elements shall be cited within the document by their type and number.
+
+
+[example]
+"Table 2"
+
+[example]
+"Figure 5"
+
+[example]
+"Formula 12"
+
+
+
+[[spec-foreword]]
 === Foreword
 
 The foreword shall be the first section of the document, unnumbered.
+It is a mandatory section.
+
+The foreword shall contain a description of the CalConnect organization
+and provide the necessary copyright and trademark statements.
+
+It is also the place to provide acknowledgements to contributors.
+
+In a revised CalConnect standard, the foreword shall also describe
+a summary of changes from the previous edition.
 
 
 === Introduction
 
 The introduction shall be the second section of the document, unnumbered.
+It is a mandatory section.
 
+It shall describe the purpose and intent of the document, as well as
+potential use cases. The document's relationship with existing CalConnect
+or external standards, if appropriate to be explained,
+shall also be described here.
 
 
 === Scope
 
 The scope shall always be provided as Section 1.
 
+
 === Normative and informative references
 
 The section for normative references should be placed at Section 2 of the document.
 
 Informative references shall be placed at the Bibliography section
-at the end of the document.
+at the end of the document, unnumbered.
 
 References in these sections shall be fully cited.
 
 
-=== Terms
-// TODO: combine when it doesn't crash
-// and definition
+[[spec-terms-definitions]]
+=== Terms and definitions
 
-The terms and definitions sections shall be placed Section 3 and onwards.
+The terms and definitions sections shall be placed beginning at Section 3.
 
 
+////
 === Glossary
 
 A glossary may be provided if appropriate.
+
+// TODO: Where? Suggest they be considered part of Terms & Definitions.
+////
+
+=== Annexes and appendices
+
+Annexes are numbered sections provided after the main body text.
+An annex may be considered informative or normative.
+
+Each annex is given a clause identifier of capital Latin letters starting from
+the A to Z (English order).
+The first annex shall be stated as (and referred to) "Annex A",
+the second "Annex B", and so forth.
+
+Clauses within annexes shall start with the annex identifier, for example,
+the first subclause in Annex A is "A.1".
+
+Appendixes are "annexes of annexes", and are given a clause identifier
+that incorporate the annex it belongs to, followed by a capital Latin
+letter starting from A to Z (English order).
+
+For example, the first appendix of Annex A will be "Appendix AA",
+the second appendix of Annex C will be "Annex CB".
+
+Clauses within appendix shall start with the appendix identifier, for example,
+the first subclause in Annex SA is "SA.1".
 
 
 === Change summary
 
 Changes to a document from a previous edition shall be described
-in summarized, bullet-point form at the end of the Foreword.
+in summarized, bullet-point form at the end of the Foreword (<<spec-foreword>>).
 
 
 === Page numbers
 
-All documents will have page numbers beginning with the title page or
-first page of the document.
+For documents rendered on paper medium for user consumption,
+page numbers shall be provided on all pages.
+
+// This is ISO practice
+Page numbers shall use Roman numbers of unnumbered initial sections,
+and Arabic numerals for the main body of text (including appendices).
 
 
 === Trademark and copyright statement
@@ -131,9 +226,9 @@ first page of the document.
 A trademark and copyright statement of the form shown below must
 appear on the cover page and the foreword.
 
-Note that "`yyyy`" is the 4-digit year, such as "`2009`".
+Note that "```yyyy```" is the 4-digit year, such as "```2009```".
 
-(TODO: add trademark statement)
+//(TODO: add trademark statement)
 
 [quote]
 ____
@@ -145,4 +240,17 @@ ____
 === Draft documents
 
 Draft documents should clearly indicate on the title page and
-every page of the document that it is a draft document.
+every page of the document that they are a draft document.
+
+
+=== Canonical representation
+
+A CalConnect document shall be digitally represented in canonical form
+using the CSD XML (CalConnect Standard Document XML) syntax, in accordance
+with its defined grammar. This allows the CalConnect document to be
+digitally rendered into any kind of supported format, including HTML,
+PDF and Word.
+
+CSD XML is an adopted form of Metanorma XML of the Metanorma
+standard document model.
+

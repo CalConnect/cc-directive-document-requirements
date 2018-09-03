@@ -1,7 +1,7 @@
 
 == Scope
 
-This document provides requirements on document structure of the following CalConnect publications:
+This document provides requirements on document structure of the following types of CalConnect publication:
 
 * Directives
 
@@ -13,11 +13,11 @@ This document provides requirements on document structure of the following CalCo
 
 * Reports
 
-These publication types are described in <<CS10001>>.
+These publication types are described in <<CCSTD>>.
 
 This document does not apply to the following types of documents
 produced by CalConnect, although processes described in this document
-can be optionally used as guidance for rigor:
+can be optionally used as guidance:
 
 * policy statements;
 * internal administrative documents; and

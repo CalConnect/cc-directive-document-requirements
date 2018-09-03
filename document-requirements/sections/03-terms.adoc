@@ -1,22 +1,24 @@
 
-//[source="ISODIR1,ISODIR1C,ISODIR2"]
-
+[source="ISODIR1,ISODIR1C,ISODIR2,CCSTD"]
 [[terms]]
 == Terms, definitions and abbreviations
 
 === Terms and definitions
 
-[[term-std-project]]
-==== standardization project
-
-an organized process with one or more standardization work items that
-contributes towards a defined scope of work
-
 [[term-std-work-item]]
 ==== standardization work item
 
 publishable work item that creates output that relates
-to standardization within a _standardization project_ (<<term-std-project>>)
+to standardization
+
+
+[[term-std-project]]
+==== standardization project
+
+organized process with one or more
+_standardization work items_ (<<term-std-work-item>>) that
+contributes towards a defined scope of work
+
 
 [[term-project-owner]]
 ==== project owner
@@ -27,7 +29,7 @@ entity with authority in charge of a _standardization project_
 [[term-document]]
 ==== document
 
-written output of a work item
+written output of a _standardization work item_ (<<term-std-work-item>>)
 
 [[term-cc-deliverable]]
 ==== CalConnect deliverable
@@ -49,16 +51,17 @@ alt:[CalConnect TC]
 internal committee of CalConnect tasked with a scope of work it
 is responsible for
 
+[[term-document-stage]]
 ==== document stage
 
-stage of document as specified in the CalConnect stages (as defined in <<CS10001>>)
+stage of _document_ (<<term-document>>) as specified in the CalConnect stages (as defined in <<CCSTD>>)
 
 [[term-std-project-output]]
 ==== standardization project output
 
 output of a _standardization project_ (<<term-std-project>>)
 
-NOTE: In this document, it explicitly means any documents and IP rights
+NOTE: In this document, this explicitly means any documents and IP rights
 produced by the standardization project.
 
 [[term-sdo]]
@@ -72,13 +75,14 @@ entity that publishes _standardization work items_ (<<term-std-work-item>>)
 [[term-std-proposal]]
 ==== proposal for standardization
 
-proposal for a new work item for standardization
+proposal for a new _work item_ (<<term-std-work-item>>) for standardization
 
 [[term-co-develop]]
 ==== co-develop
 alt:[collaborative development]
 
-act of developing a work item by multiple parties from the proposal stage
+act of developing a _standardization work item_ (<<term-std-work-item>>) by multiple parties from the proposal
+_document stage_ (<<term-document-stage>>)
 
 [[term-co-publish]]
 ==== co-publish
@@ -89,7 +93,7 @@ by multiple parties
 
 ==== joint work item
 
-work item _co-developed_ (<<term-co-develop>>) by both parties
+_standarization work item_ (<<term-std-work-item>>) _co-developed_ (<<term-co-develop>>) by both parties
 
 
 ==== joint publication

@@ -11,20 +11,21 @@ CalConnect implements a numbering system for projects/documents.
 A project/document index shall be maintained on the CalConnect
 website with documents listed by number, name, and type.
 
-
+[[project-code]]
 === Project code
 
-. The project code shall be of the form `[n]`, where `[n]` is any selected positive integer
-of less than 5 digits.
+. The project code shall be of the form `[n]`, where `[n]` is any
+selected positive integer of less than 5 digits.
 
-. The numbering system applies to all project types.
+. The numbering system applies across all project types.
+Different project types shall not share an identical project code.
 
 . The project code shall be assigned on proposal acceptance
 of the project.
 
 . Co-published documents shall attempt to use an identical project
 code in both CalConnect and at the collaborative publisher to prevent
-potential ambiguity.
+potential ambiguity, if possible.
 
 
 === Document identifier
@@ -41,26 +42,30 @@ The document identifier takes the form of `[type][stage] [code][:][y]`, where:
 
 ==== Edition year
 
-A document will retain the same number when updated but a different
-edition year.
+The edition year is the calendar year in which the document is published.
+On updates, a document will retain the same project code but may be
+assigned a different edition year in which the update is published.
 
 
 ==== Co-publishing
 
 Co-published documents shall incorporate codes from all collaborative
 publishing parties in the document identifier, joined together via a
-"`solidus`" sign ("`/`").
+"`solidus`" sign ("```/```").
 
 [example]
 CalConnect deliverables co-published with ISO are referenced as as "`CC/ISO`",
 with IETF as "`CC/IETF`".
 
 
+[[document-type]]
 ==== Document types
 
 Document types shall be represented in the "`type`" as follows:
 
 . Standard, "`CC`"
+
+. Directive, "`CC/DIR`"
 
 . Guide, "`CC/Guide`"
 
@@ -68,30 +73,38 @@ Document types shall be represented in the "`type`" as follows:
 
 . Report, "`CC/R`"
 
+. Amendment, "`CC/Amd`"
+
+. Technical corrigendum, "`CC/Cor`"
+
 [example]
-"`CC/Guide/DS 38002:2018`" is a CalConnect Guide at DS stage with project number 38002, published in 2018.
+"`CC/Guide/DS 38002:2018`" is a CalConnect Guide at DS stage with
+project number 38002, published in 2018.
 
 
-(TODO: Amendments, corrigendum)
-
-
+[[document-stage]]
 ==== Document stages
 
 Document stages shall be represented in the "`stage`" as follows:
 
-. Published, "``" (blank)
+. Published, "``` ```" (blank)
 
-. Final draft standard, "`/FDS`"
+. Final draft standard, "```/FDS```"
 
-. Draft standard, "`/DS`"
+. Draft standard, "```/DS```"
 
-. Technical committee draft, "`/CD`"
+. Technical committee draft, "```/CD```"
 
-. Project group draft / Working draft, "`/WD`"
+. Project group draft / Working draft, "```/WD```"
 
 
 [example]
-"`CC/FDS 10668:2018`" is a CalConnect standard document at FDS stage with project number 10668, published in 2018.
+"`CC/FDS 10668:2018`" is a CalConnect standard document at FDS stage
+with project number 10668, published in 2018.
+
+[example]
+"`CC/Guide/DS 20080:2018`" is a CalConnect guide at DS stage with
+project number 20080, published in 2018.
 
 
 NOTE: Existing documents can be retrofitted to the scheme as practical.
