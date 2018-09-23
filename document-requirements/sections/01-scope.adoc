@@ -3,15 +3,19 @@
 
 This document provides requirements on document structure of the following types of CalConnect publication:
 
-* Directives
+* Directive
 
-* Standards
+* Standard
 
-* Guides
+* Guide
 
-* Specifications
+* Specification
 
-* Reports
+* Amendment
+
+* Technical corrigendum
+
+* Report
 
 These publication types are described in <<CCSTD>>.
 

@@ -77,6 +77,8 @@ Document types shall be represented in the "`type`" as follows:
 
 . Technical corrigendum, "`CC/Cor`"
 
+. Administrative, "`CC/A`"
+
 [example]
 "`CC/Guide/DS 38002:2018`" is a CalConnect Guide at DS stage with
 project number 38002, published in 2018.
