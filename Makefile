@@ -8,13 +8,10 @@ SHELL := /bin/bash
 all: $(HTML) $(XML) $(PDF)
 
 clean:
-	rm -f $(HTML) $(XML) $(PDF) Gemfile Gemfile.lock
+	rm -f $(HTML) $(XML) $(PDF)
 
-bundle:	Gemfile Gemfile.lock
+bundle:
 	bundle
-
-Gemfile Gemfile.lock:
-	ln -s ../common/$@ .
 
 %.xml %.html %.pdf: %.adoc bundle
 	bundle exec metanorma -t csd -x xml,html,pdf $<
