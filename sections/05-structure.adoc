@@ -68,9 +68,9 @@ The responsible technical committee shall be shown on the cover page.
 
 === Contributor acknowledgement
 
-Contributors to the document, including editors, authors, and the
-the project owner (a CalConnect TC) as well as other contributing
-parties, shall be provided if appropriate within the Foreword.
+Contributors to the document, including editors, authors, and the project owner 
+(a CalConnect TC) as well as other contributing parties, shall be provided if 
+appropriate within the Foreword.
 
 
 === Table of contents
