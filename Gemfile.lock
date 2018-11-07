@@ -99,7 +99,7 @@ GEM
       ruby-xslt
       thread_safe
       uuidtools
-    metanorma-csd (1.0.8)
+    metanorma-csd (1.0.9)
       isodoc (~> 0.9.6)
       metanorma-standoc (~> 1.0.0)
     metanorma-gb (1.0.7)
@@ -191,4 +191,4 @@ DEPENDENCIES
   metanorma-csd
 
 BUNDLED WITH
-   1.17.0
+   1.17.1
