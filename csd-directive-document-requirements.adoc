@@ -1,0 +1,32 @@
+= CalConnect Directive: Standard document requirements
+:title: CalConnect Directive: Standard document requirements
+:docnumber: 10002
+:copyright-year: 2018
+:language: en
+:doctype: directive
+:edition: 1
+:status: final-draft
+:revdate: 2018-11-07
+:script: Latn
+:technical-committee: PUBLISH
+:local-cache-only:
+:data-uri-image:
+:toc:
+
+:sectnums!:
+
+include::sections/00-foreword.adoc[]
+include::sections/00-intro.adoc[]
+
+:sectnums:
+
+include::sections/01-scope.adoc[]
+include::sections/02-normrefs.adoc[]
+include::sections/03-terms.adoc[]
+include::sections/04-requirements.adoc[]
+include::sections/05-structure.adoc[]
+
+include::sections/99-bibliography.adoc[]
+
+
+
