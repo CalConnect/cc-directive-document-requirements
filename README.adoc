@@ -1,43 +1,70 @@
-= CalConnect Conference 41 Report
+= CalConnect Directive: Standard document requirements
+:repo-owner: CalConnect
+:repo-name: csd-directive-document-requirements
+
+
+This work item belongs to TC CALSPAM.
+
+image:https://travis-ci.com/CalConnect/csd-directive-document-requirements.svg?branch=master["Build Status", link="https://travis-ci.com/CalConnect/csd-directive-document-requirements"]
+
+This document is available in its rendered forms here:
+
+* https://CalConnect.github.io/csd-directive-document-requirements/[CalConnect Directive: Standard document requirements (HTML)]
+* https://CalConnect.github.io/csd-directive-document-requirements/csd-directive-document-requirements.pdf[PDF]
+* https://CalConnect.github.io/csd-directive-document-requirements/csd-directive-document-requirements.xml[Metanorma XML]
+* https://CalConnect.github.io/csd-directive-document-requirements/csd-directive-document-requirements.rxl[Relaton XML (Bibliographic item)]
+
+Because of all this, there is no need to build the document on your own, but if you wish to do so, this is how it can be done:
 
 == Fetching the document
 
 [source,sh]
 ----
-git clone https://github.com/riboseinc/csd-public-documents
+git clone https://gitlab.com/CalConnect/csd-directive-document-requirements/
 ----
 
-== Install Build Tools
+== Installing Build Tools
 
-[source,sh]
-----
-brew install ruby
-gem install bundler
-----
+See https://www.metanorma.com/overview/getting-started/
 
-== Install CSD dependencies
 
-[source,sh]
-----
-pushd common
-bundle install
-popd
-----
+== Running via Docker or locally
 
-== Enter This Directory And Build!
+If you have installed the build tools locally, and wish to run the
+locally-installed compilation tools, there is nothing further to set.
+
+If you don't want to deal with local dependencies, use the docker
+version by:
 
 [source,sh]
 ----
-pushd conference41rpt
+export METANORMA_DOCKER=1
+----
+
+The `Makefile` will automatically choose the proper command to
+execute.
+
+
+== Building The Document
+
+[source,sh]
+----
 make clean all
 ----
 
-== Open the generated HTML file
+The following outputs will be built:
+
+* CSD XML (https://github.com/calconnect/metanorma-model-csd) (`[filename].xml`)
+* HTML (`[filename].html`)
+* PDF (`[filename].pdf`)
+* Word DOC (`[filename].doc`)
+
+
+== Iterating the document
 
 [source,sh]
 ----
-make open
-# or
-open *.html
+make html
+open csd-*.html
 ----
 
