@@ -5,14 +5,22 @@
 :language: en
 :doctype: directive
 :edition: 1
-:status: final-draft
-:revdate: 2018-11-07
-:published-date: 2018-11-07
+:status: published
+:revdate: 2018-01-18
+:published-date: 2018-01-18
 :script: Latn
 :technical-committee: PUBLISH
+:draft:
+:toc:
+:stem:
+:xrefstyle: short
+:imagesdir: images
+:docfile: cc-10002.adoc
+:mn-document-class: csd
+:mn-output-extensions: xml,html,pdf
 :local-cache-only:
 :data-uri-image:
-:toc:
+
 
 :sectnums!:
 
