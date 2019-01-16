@@ -25,6 +25,8 @@ The cover page will contain:
 
 . Responsible technical committee
 
+. Document authors and their affiliations, if any (<<document-authors>>)
+
 . Incorporation by reference and hyperlink of the appropriate
 statements of Intellectual Property Rights, Appropriate Usage,
 Trademarks, and Disclaimer of Warranty
@@ -66,11 +68,30 @@ ____
 The responsible technical committee shall be shown on the cover page.
 
 
+[[document-authors]]
+=== Authors, editors and their affiliations
+
+Authors and editors of the CalConnect standard document shall be shown on the
+cover page.
+
+Each individual author or editor shall be shown on the cover page with:
+
+* their role (author or editor) within this document;
+
+* an affiliation, if the author participates through a CalConnect corporate membership,
+  where the affiliation must be a current CalConnect member
+  at the time of publication. Otherwise, in the case an author is an individual member,
+  no affiliation shall be included.
+
+When a document is of the Directive type, no individual authorship
+shall be shown on the cover page, and only the responsible technical committee
+is displayed.
+
+
 === Contributor acknowledgement
 
-Contributors to the document, including editors, authors, and the project owner 
-(a CalConnect TC) as well as other contributing parties, shall be provided if 
-appropriate within the Foreword.
+Contributors other than authors and editors of the document as well as
+other contributing parties, shall be provided if appropriate within the Foreword.
 
 
 === Table of contents
