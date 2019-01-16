@@ -15,7 +15,7 @@ website with documents listed by number, name, and type.
 === Project code
 
 . The project code shall be of the form `[n]`, where `[n]` is any
-selected positive integer of less than 5 digits.
+selected positive integer of five (5) or less digits.
 
 . The numbering system applies across all project types.
 Different project types shall not share an identical project code.
