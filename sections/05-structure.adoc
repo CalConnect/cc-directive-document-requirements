@@ -71,21 +71,22 @@ The responsible technical committee shall be shown on the cover page.
 [[document-authors]]
 === Authors, editors and their affiliations
 
-Authors and editors of the CalConnect standard document shall be shown on the
+Authors and editors of CalConnect published documents shall be shown on the
 cover page.
 
 Each individual author or editor shall be shown on the cover page with:
 
-* their role (author or editor) within this document;
+* their role (author or editor) in the creation of the document;
 
-* an affiliation, if the author participates through a CalConnect corporate membership,
+* an affiliation, if the author participated through a CalConnect organizational membership,
   where the affiliation must be a current CalConnect member
-  at the time of publication. Otherwise, in the case an author is an individual member,
-  no affiliation shall be included.
+  at the time of participation as an author or editor.
+  Otherwise, in the case an author is an individual member,
+  it should be clearly marked as so.
 
-When a document is of the Directive type, no individual authorship
-shall be shown on the cover page, and only the responsible technical committee
-is displayed.
+When a document is attributable to a TC in its entirety, or to
+CalConnect as an organization, no individual authorship shall be
+shown on the cover page.
 
 
 === Contributor acknowledgement
