@@ -1,13 +1,13 @@
 = CalConnect Directive: Standard document requirements
 :title: CalConnect Directive: Standard document requirements
 :docnumber: 10002
-:copyright-year: 2018
+:copyright-year: 2019
 :language: en
 :doctype: directive
 :edition: 1
 :status: published
-:revdate: 2018-01-18
-:published-date: 2018-01-18
+:revdate: 2019-01-18
+:published-date: 2019-01-18
 :script: Latn
 :technical-committee: PUBLISH
 :draft:
