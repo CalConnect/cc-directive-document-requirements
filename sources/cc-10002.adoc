@@ -10,10 +10,6 @@
 :published-date: 2019-01-18
 :script: Latn
 :technical-committee: PUBLISH
-:draft:
-:toc:
-:stem:
-:xrefstyle: short
 :imagesdir: images
 :docfile: cc-10002.adoc
 :mn-document-class: csd
@@ -22,12 +18,8 @@
 :data-uri-image:
 
 
-:sectnums!:
-
 include::sections/00-foreword.adoc[]
 include::sections/00-intro.adoc[]
-
-:sectnums:
 
 include::sections/01-scope.adoc[]
 include::sections/02-normrefs.adoc[]
