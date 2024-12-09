@@ -1,31 +1,37 @@
 = CalConnect Directive: Standard document requirements
-:repo-owner: CalConnect
-:repo-name: csd-directive-document-requirements
 
+This work item belongs to TC PUBLISH.
 
-This work item belongs to TC CALSPAM.
-
-image:https://travis-ci.com/CalConnect/csd-directive-document-requirements.svg?branch=master["Build Status", link="https://travis-ci.com/CalConnect/csd-directive-document-requirements"]
+image:https://github.com/CalConnect/cc-directive-document-requirements/actions/workflows/generate.yml/badge.svg["Build Status", link="https://github.com/CalConnect/cc-directive-document-requirements/actions/workflows/generate.yml"]
 
 This document is available in its rendered forms here:
 
-* https://CalConnect.github.io/csd-directive-document-requirements/[CalConnect Directive: Standard document requirements (HTML)]
-* https://CalConnect.github.io/csd-directive-document-requirements/csd-directive-document-requirements.pdf[PDF]
-* https://CalConnect.github.io/csd-directive-document-requirements/csd-directive-document-requirements.xml[Metanorma XML]
-* https://CalConnect.github.io/csd-directive-document-requirements/csd-directive-document-requirements.rxl[Relaton XML (Bibliographic item)]
+* https://calconnect.github.io/cc-directive-document-requirements/[CalConnect Directive: Standard document requirements]
 
-Because of all this, there is no need to build the document on your own, but if you wish to do so, this is how it can be done:
+
+== Structure
+
+`sources/`::
+source of documents and models
+
+`sources/cc-10002.adoc`::
+CalConnect CC 10002 standard.
+
+`_site/`::
+(automatically generated using `metanorma site generate`) published document.
+
 
 == Fetching the document
 
 [source,sh]
 ----
-git clone https://gitlab.com/CalConnect/csd-directive-document-requirements/
+git clone https://github.com/CalConnect/cc-ical-relations/
 ----
 
-== Installing Build Tools
 
-See https://www.metanorma.com/overview/getting-started/
+== Installing build tools
+
+See https://www.metanorma.org/install/
 
 
 == Running via Docker or locally
@@ -33,38 +39,33 @@ See https://www.metanorma.com/overview/getting-started/
 If you have installed the build tools locally, and wish to run the
 locally-installed compilation tools, there is nothing further to set.
 
-If you don't want to deal with local dependencies, use the docker
-version by:
+If you don't want to deal with local dependencies, use the docker:
 
 [source,sh]
 ----
-export METANORMA_DOCKER=1
+docker run -v "$(pwd)":/metanorma -w /metanorma -it metanorma/mn metanorma site generate --agree-to-terms
 ----
 
-The `Makefile` will automatically choose the proper command to
-execute.
 
-
-== Building The Document
+== Building the document
 
 [source,sh]
 ----
-make clean all
+metanorma site generate --agree-to-terms
 ----
 
-The following outputs will be built:
-
-* CSD XML (https://github.com/calconnect/metanorma-model-csd) (`[filename].xml`)
-* HTML (`[filename].html`)
-* PDF (`[filename].pdf`)
-* Word DOC (`[filename].doc`)
+The generated documents are accessible under `_site/`.
 
 
 == Iterating the document
 
 [source,sh]
 ----
-make html
-open csd-*.html
+metanorma site generate --agree-to-terms
+open _site/index.html
 ----
 
+
+== License
+
+Copyright its respective authors and CalConnect.
