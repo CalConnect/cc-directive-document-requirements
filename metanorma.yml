@@ -1,8 +1,9 @@
 ---
 metanorma:
-  deploy:
-    email: "ci@metanorma.org"
-relaton:
+  source:
+    files:
+      - sources/cc-10002.adoc
+
   collection:
-    name: TC-PUBLISH
+    name: "Directive: Standard document requirements"
     organization: CalConnect
