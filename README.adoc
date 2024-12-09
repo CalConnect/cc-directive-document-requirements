@@ -23,10 +23,7 @@ CalConnect CC 10002 standard.
 
 == Fetching the document
 
-[source,sh]
-----
-git clone https://github.com/CalConnect/cc-ical-relations/
-----
+Click on "Code > Local" to clone this repository.
 
 
 == Installing build tools
