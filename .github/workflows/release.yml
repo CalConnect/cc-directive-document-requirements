@@ -22,8 +22,6 @@ jobs:
           install-fonts: 'true'
           continue-without-fonts: 'true'
 
-      - run: find _site -type f | sort
-
       - uses: actions-mn/release@v1
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
