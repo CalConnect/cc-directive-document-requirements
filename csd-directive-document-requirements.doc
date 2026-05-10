@@ -1,0 +1,3152 @@
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="----=_NextPart_2d2b528e.1e2a.4e24"
+
+------=_NextPart_2d2b528e.1e2a.4e24
+Content-Location: file:///C:/Doc/csd-directive-document-requirements.htm
+Content-Type: text/html; charset="utf-8"
+
+<?xml version="1.0"?>
+<html xmlns:epub="http://www.idpf.org/2007/ops" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40">
+  <head><!--[if gte mso 9]>
+<xml>
+<w:WordDocument>
+<w:View>Print</w:View>
+<w:Zoom>100</w:Zoom>
+<w:DoNotOptimizeForBrowser/>
+</w:WordDocument>
+</xml>
+<![endif]-->
+<meta http-equiv=Content-Type content="text/html; charset=utf-8"/>
+
+  <link rel=File-List href="csd-directive-document-requirements_files/filelist.xml"/>
+<style>
+  <!--
+@charset "UTF-8";
+/* Font Definitions */
+@font-face {
+  font-family: Wingdings;
+  panose-1: 5 0 0 0 0 0 0 0 0 0;
+  mso-font-charset: 2;
+  mso-generic-font-family: decorative;
+  mso-font-pitch: variable;
+  mso-font-signature: 0 268435456 0 0 -2147483648 0; }
+
+@font-face {
+  font-family: "MS Mincho";
+  panose-1: 2 2 6 9 4 2 5 8 3 4;
+  mso-font-alt: "ＭＳ 明朝";
+  mso-font-charset: 128;
+  mso-generic-font-family: modern;
+  mso-font-pitch: fixed;
+  mso-font-signature: -536870145 1791491579 134217746 0 131231 0; }
+
+@font-face {
+  font-family: "Cambria Math";
+  panose-1: 2 4 5 3 5 4 6 3 2 4;
+  mso-font-charset: 0;
+  mso-generic-font-family: roman;
+  mso-font-pitch: variable;
+  mso-font-signature: -536870145 1107305727 0 0 415 0; }
+
+@font-face {
+  font-family: "Arial Narrow";
+  panose-1: 2 11 5 6 2 2 2 3 2 4;
+  mso-font-charset: 0;
+  mso-generic-font-family: swiss;
+  mso-font-pitch: variable;
+  mso-font-signature: 3 0 0 0 1 0; }
+
+@font-face {
+  font-family: "Source Sans Pro";
+  panose-1: 2 11 5 3 3 4 3 2 2 4;
+  mso-font-alt: Arial;
+  mso-font-charset: 77;
+  mso-generic-font-family: swiss;
+  mso-font-pitch: variable;
+  mso-font-signature: 536870919 1 0 0 403 0; }
+
+@font-face {
+  font-family: Tahoma;
+  panose-1: 2 11 6 4 3 5 4 4 2 4;
+  mso-font-charset: 0;
+  mso-generic-font-family: swiss;
+  mso-font-pitch: variable;
+  mso-font-signature: -520081665 -1073717157 41 0 66047 0; }
+
+@font-face {
+  font-family: Times;
+  panose-1: 2 0 5 0 0 0 0 0 0 0;
+  mso-font-charset: 0;
+  mso-generic-font-family: auto;
+  mso-font-pitch: variable;
+  mso-font-signature: -536870145 1342185562 0 0 415 0; }
+
+@font-face {
+  font-family: "Wingdings 2";
+  panose-1: 5 2 1 2 1 5 7 7 7 7;
+  mso-font-charset: 2;
+  mso-generic-font-family: decorative;
+  mso-font-pitch: variable;
+  mso-font-signature: 0 268435456 0 0 -2147483648 0; }
+
+@font-face {
+  font-family: "\@MS Mincho";
+  panose-1: 2 2 6 9 4 2 5 8 3 4;
+  mso-font-charset: 128;
+  mso-generic-font-family: modern;
+  mso-font-pitch: fixed;
+  mso-font-signature: -536870145 1791491579 134217746 0 131231 0; }
+
+p.MsoNormal, li.MsoNormal, div.MsoNormal {
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "";
+  margin: 0cm;
+  margin-bottom: 12.0pt;
+  mso-pagination: widow-orphan;
+  font-size: 10.5pt;
+  font-family: "Arial", sans-serif;
+  mso-fareast-font-family: "Times New Roman";
+  mso-ansi-language: EN-US;
+  mso-fareast-language: EN-US; }
+
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph {
+  mso-style-priority: 34;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  /* do not put in margin-left, it is specific to list level */
+  mso-add-space: auto;
+  mso-pagination: widow-orphan;
+  font-size: 10.5pt;
+  font-family: "Arial", sans-serif;
+  mso-ansi-language: EN-AU;
+  mso-fareast-language: EN-US; }
+
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst {
+  mso-style-priority: 34;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-type: export-only;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  /* do not put in margin-left, it is specific to list level */
+  mso-add-space: auto;
+  mso-pagination: widow-orphan;
+  font-size: 10.5pt;
+  font-family: "Arial", sans-serif;
+  mso-ansi-language: EN-AU;
+  mso-fareast-language: EN-US; }
+
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle {
+  mso-style-priority: 34;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-type: export-only;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  /* do not put in margin-left, it is specific to list level */
+  mso-add-space: auto;
+  mso-pagination: widow-orphan;
+  font-size: 10.5pt;
+  font-family: "Arial", sans-serif;
+  mso-ansi-language: EN-AU;
+  mso-fareast-language: EN-US; }
+
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast {
+  mso-style-priority: 34;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-type: export-only;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  /* do not put in margin-left, it is specific to list level */
+  mso-add-space: auto;
+  mso-pagination: widow-orphan;
+  font-size: 10.5pt;
+  font-family: "Arial", sans-serif;
+  mso-ansi-language: EN-AU;
+  mso-fareast-language: EN-US; }
+
+p.MsoCommentText, li.MsoCommentText, div.MsoCommentText {
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  margin: 0cm;
+  margin-bottom: .0001pt;
+  mso-pagination: widow-orphan;
+  font-size: 10.0pt;
+  font-family: "Arial", sans-serif;
+  mso-fareast-font-family: "Times New Roman";
+  mso-ansi-language: EN-US;
+  mso-fareast-language: EN-US; }
+
+p.MsoHeader, li.MsoHeader, div.MsoHeader {
+  mso-style-unhide: no;
+  margin: 0cm;
+  margin-bottom: .0001pt;
+  mso-pagination: widow-orphan;
+  tab-stops: center 216.0pt right 482.0pt;
+  font-size: 10.5pt;
+  font-family: "Arial", sans-serif;
+  mso-fareast-font-family: "Times New Roman";
+  mso-ansi-language: EN-US;
+  mso-fareast-language: EN-US; }
+
+p.MsoFooter, li.MsoFooter, div.MsoFooter {
+  mso-style-unhide: no;
+  margin: 0cm;
+  margin-bottom: .0001pt;
+  mso-pagination: widow-orphan;
+  tab-stops: right 482.0pt;
+  font-size: 10.5pt;
+  font-family: "Arial", sans-serif;
+  mso-fareast-font-family: "Times New Roman";
+  mso-ansi-language: EN-US;
+  mso-fareast-language: EN-US; }
+
+span.MsoCommentReference {
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  mso-style-parent: "";
+  mso-ansi-font-size: 8.0pt;
+  mso-bidi-font-size: 8.0pt; }
+
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText {
+  mso-style-unhide: no;
+  margin-top: 9.0pt;
+  margin-right: 0cm;
+  margin-bottom: 0cm;
+  margin-left: 0cm;
+  margin-bottom: .0001pt;
+  mso-pagination: widow-orphan;
+  font-size: 12.0pt;
+  font-family: "Arial", sans-serif;
+  mso-fareast-font-family: "Times New Roman";
+  mso-bidi-font-family: "Times New Roman";
+  mso-ansi-language: EN-US;
+  mso-fareast-language: EN-US; }
+
+p.MsoTitle, li.MsoTitle, div.MsoTitle {
+  mso-style-priority: 10;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-link: "Title Char";
+  mso-style-next: Normal;
+  margin: 0cm;
+  margin-bottom: .0001pt;
+  mso-add-space: auto;
+  mso-pagination: widow-orphan;
+  font-size: 28.0pt;
+  font-family: "Calibri Light",sans-serif;
+  mso-fareast-font-family: "Times New Roman";
+  mso-bidi-font-family: "Times New Roman";
+  letter-spacing: -.5pt;
+  mso-font-kerning: 14.0pt;
+  mso-ansi-language: EN-US;
+  mso-fareast-language: EN-US; }
+
+p.MsoTitleCxSpFirst, li.MsoTitleCxSpFirst, div.MsoTitleCxSpFirst {
+  mso-style-priority: 10;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-link: "Title Char";
+  mso-style-next: Normal;
+  mso-style-type: export-only;
+  margin: 0cm;
+  margin-bottom: .0001pt;
+  mso-add-space: auto;
+  mso-pagination: widow-orphan;
+  font-size: 28.0pt;
+  font-family: "Calibri Light",sans-serif;
+  mso-fareast-font-family: "Times New Roman";
+  mso-bidi-font-family: "Times New Roman";
+  letter-spacing: -.5pt;
+  mso-font-kerning: 14.0pt;
+  mso-ansi-language: EN-US;
+  mso-fareast-language: EN-US; }
+
+p.MsoTitleCxSpMiddle, li.MsoTitleCxSpMiddle, div.MsoTitleCxSpMiddle {
+  mso-style-priority: 10;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-link: "Title Char";
+  mso-style-next: Normal;
+  mso-style-type: export-only;
+  margin: 0cm;
+  margin-bottom: .0001pt;
+  mso-add-space: auto;
+  mso-pagination: widow-orphan;
+  font-size: 28.0pt;
+  font-family: "Calibri Light",sans-serif;
+  mso-fareast-font-family: "Times New Roman";
+  mso-bidi-font-family: "Times New Roman";
+  letter-spacing: -.5pt;
+  mso-font-kerning: 14.0pt;
+  mso-ansi-language: EN-US;
+  mso-fareast-language: EN-US; }
+
+p.MsoTitleCxSpLast, li.MsoTitleCxSpLast, div.MsoTitleCxSpLast {
+  mso-style-priority: 10;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-link: "Title Char";
+  mso-style-next: Normal;
+  mso-style-type: export-only;
+  margin: 0cm;
+  margin-bottom: .0001pt;
+  mso-add-space: auto;
+  mso-pagination: widow-orphan;
+  font-size: 28.0pt;
+  font-family: "Calibri Light",sans-serif;
+  mso-fareast-font-family: "Times New Roman";
+  mso-bidi-font-family: "Times New Roman";
+  letter-spacing: -.5pt;
+  mso-font-kerning: 14.0pt;
+  mso-ansi-language: EN-US;
+  mso-fareast-language: EN-US; }
+
+a:link, span.MsoHyperlink {
+  mso-style-unhide: no;
+  mso-style-parent: "";
+  color: blue;
+  text-decoration: underline;
+  text-underline: single; }
+
+a:visited, span.MsoHyperlinkFollowed {
+  mso-style-unhide: no;
+  mso-style-parent: "";
+  color: purple;
+  text-decoration: underline;
+  text-underline: single; }
+
+p.MsoCommentSubject, li.MsoCommentSubject, div.MsoCommentSubject {
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  mso-style-parent: "Comment Text";
+  mso-style-next: "Comment Text";
+  margin: 0cm;
+  margin-bottom: .0001pt;
+  mso-pagination: widow-orphan;
+  font-size: 10.0pt;
+  font-family: "Arial", sans-serif;
+  mso-fareast-font-family: "Times New Roman";
+  mso-ansi-language: EN-US;
+  mso-fareast-language: EN-US;
+  font-weight: bold; }
+
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate {
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  margin: 0cm;
+  margin-bottom: .0001pt;
+  mso-pagination: widow-orphan;
+  font-size: 8.0pt;
+  font-family: "Tahoma",sans-serif;
+  mso-fareast-font-family: "Times New Roman";
+  mso-ansi-language: EN-US;
+  mso-fareast-language: EN-US; }
+
+span.blackgraphtxsidebar {
+  mso-style-name: blackgraphtxsidebar;
+  mso-style-unhide: no;
+  mso-style-parent: ""; }
+
+span.blackgraphtx {
+  mso-style-name: blackgraphtx;
+  mso-style-unhide: no;
+  mso-style-parent: ""; }
+
+.MsoChpDefault {
+  mso-style-type: export-only;
+  mso-default-props: yes; }
+
+div.figure {
+  text-align: center; }
+
+h1 {
+  mso-style-priority: 1;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-link: "Heading 1 Char";
+  mso-style-next: Normal;
+  margin-top: 13.5pt;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  line-height: 13.5pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-outline-level: 1;
+  mso-list: l1 level1 lfo6;
+  mso-hyphenate: none;
+  tab-stops: 20.0pt list 21.6pt left 28.0pt;
+  font-size: 13.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Arial", sans-serif;
+  mso-fareast-font-family: "Arial", sans-serif;
+  color: #0E1A85;
+  mso-font-kerning: 0pt;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  mso-bidi-font-weight: normal; }
+
+h1.Annex {
+  mso-style-priority: 1;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-link: "Heading 1 Char";
+  mso-style-next: Normal;
+  margin-top: 3.0pt;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  line-height: 12.5pt;
+  text-align: center;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  font-weight: normal;
+  mso-outline-level: 1;
+  mso-list: l1 level1 lfo6;
+  mso-hyphenate: none;
+  tab-stops: 20.0pt list 21.6pt left 28.0pt;
+  font-size: 12.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Arial", sans-serif;
+  mso-fareast-font-family: "Arial", sans-serif;
+  color: #0E1A85;
+  mso-font-kerning: 0pt;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  mso-bidi-font-weight: normal; }
+
+.h2Annex {
+  mso-style-priority: 2;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "Heading 1";
+  mso-style-link: "Heading 2 Char";
+  mso-style-next: Normal;
+  margin-top: 3.0pt;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  line-height: 12.5pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-outline-level: 2;
+  mso-hyphenate: none;
+  tab-stops: 27.0pt 35.0pt;
+  font-size: 12.0pt;
+  font-weight: bold;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Arial", sans-serif;
+  mso-fareast-font-family: "Arial", sans-serif;
+  color: #0E1A85;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  mso-bidi-font-weight: normal; }
+
+h2 {
+  mso-style-priority: 2;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "Heading 1";
+  mso-style-link: "Heading 2 Char";
+  mso-style-next: Normal;
+  margin-top: 3.0pt;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  line-height: 12.5pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-outline-level: 2;
+  mso-list: l1 level2 lfo6;
+  mso-hyphenate: none;
+  tab-stops: 27.0pt 35.0pt;
+  font-size: 12.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Arial", sans-serif;
+  mso-fareast-font-family: "Arial", sans-serif;
+  color: #0E1A85;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  mso-bidi-font-weight: normal; }
+
+h3 {
+  mso-style-priority: 3;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "Heading 1";
+  mso-style-link: "Heading 3 Char";
+  mso-style-next: Normal;
+  margin-top: 3.0pt;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-outline-level: 3;
+  mso-list: l1 level3 lfo6;
+  mso-hyphenate: none;
+  tab-stops: list 36.0pt left 44.0pt;
+  font-size: 11.0pt;
+  font-family: "Arial", sans-serif;
+  color: #0E1A85;
+  mso-fareast-font-family: "Arial", sans-serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  mso-bidi-font-weight: normal; }
+
+h4 {
+  mso-style-priority: 4;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "Heading 3";
+  mso-style-link: "Heading 4 Char";
+  mso-style-next: Normal;
+  margin-top: 3.0pt;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-outline-level: 4;
+  mso-list: l1 level4 lfo6;
+  mso-hyphenate: none;
+  tab-stops: 51.05pt 57.0pt 68.0pt;
+  font-size: 11.0pt;
+  font-family: "Arial", sans-serif;
+  color: #0E1A85;
+  mso-fareast-font-family: "Arial", sans-serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  mso-bidi-font-weight: normal; }
+
+h5 {
+  mso-style-priority: 5;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "Heading 4";
+  mso-style-link: "Heading 5 Char";
+  mso-style-next: Normal;
+  margin-top: 3.0pt;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-outline-level: 5;
+  mso-list: l1 level5 lfo6;
+  mso-hyphenate: none;
+  tab-stops: 51.05pt list 54.0pt;
+  font-size: 11.0pt;
+  font-family: "Arial", sans-serif;
+  mso-fareast-font-family: "Arial", sans-serif;
+  color: #0E1A85;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  mso-bidi-font-weight: normal; }
+
+h6 {
+  mso-style-priority: 6;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "Heading 5";
+  mso-style-link: "Heading 6 Char";
+  mso-style-next: Normal;
+  margin-top: 3.0pt;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-outline-level: 6;
+  mso-list: l1 level6 lfo6;
+  mso-hyphenate: none;
+  tab-stops: 51.05pt list 72.0pt;
+  font-size: 11.0pt;
+  font-family: "Arial", sans-serif;
+  color: #0E1A85;
+  mso-fareast-font-family: "Arial", sans-serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  mso-bidi-font-weight: normal; }
+
+p.MsoToc1, li.MsoToc1, div.MsoToc1 {
+  mso-style-priority: 39;
+  mso-style-unhide: no;
+  mso-style-next: Normal;
+  margin-top: 6.0pt;
+  margin-right: 25.0pt;
+  margin-bottom: 0cm;
+  margin-left: 36.0pt;
+  margin-bottom: .0001pt;
+  text-indent: -36.0pt;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt 36.0pt right dotted 487.6pt;
+  font-size: 10.5pt;
+  font-family: "Arial", sans-serif;
+  mso-fareast-font-family: "Arial", sans-serif;
+  mso-bidi-font-family: "Arial", sans-serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.MsoToc2, li.MsoToc2, div.MsoToc2 {
+  mso-style-noshow: yes;
+  mso-style-priority: 39;
+  mso-style-unhide: no;
+  mso-style-parent: "TOC 1";
+  mso-style-next: Normal;
+  margin-top: 0cm;
+  margin-right: 25.0pt;
+  margin-bottom: 0cm;
+  margin-left: 36.0pt;
+  margin-bottom: .0001pt;
+  text-indent: -36.0pt;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt 36.0pt right dotted 487.6pt;
+  font-size: 10.5pt;
+  font-family: "Arial", sans-serif;
+  mso-fareast-font-family: "Arial", sans-serif;
+  mso-bidi-font-family: "Arial", sans-serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.MsoToc3, li.MsoToc3, div.MsoToc3 {
+  mso-style-noshow: yes;
+  mso-style-priority: 39;
+  mso-style-unhide: no;
+  mso-style-parent: "TOC 2";
+  mso-style-next: Normal;
+  margin-top: 0cm;
+  margin-right: 25.0pt;
+  margin-bottom: 0cm;
+  margin-left: 36.0pt;
+  margin-bottom: .0001pt;
+  text-indent: -36.0pt;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt 36.0pt right dotted 487.6pt;
+  font-size: 10.5pt;
+  font-family: "Arial", sans-serif;
+  mso-fareast-font-family: "Arial", sans-serif;
+  mso-bidi-font-family: "Arial", sans-serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+span.MsoFootnoteReference {
+  mso-style-priority: 99;
+  vertical-align: super; }
+
+p.MsoFootnoteText, li.MsoFootnoteText, div.MsoFootnoteText {
+  mso-style-noshow: yes;
+  mso-style-priority: 99;
+  mso-style-link: "Footnote Text Char";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 0cm;
+  text-align: justify;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 10.0pt;
+  font-family: "Arial", sans-serif;
+  mso-fareast-font-family: "Arial", sans-serif;
+  mso-bidi-font-family: "Arial", sans-serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: EN-US; }
+
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText {
+  mso-style-noshow: yes;
+  mso-style-priority: 99;
+  mso-style-unhide: no;
+  mso-style-link: "Body Text Char";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 6.0pt;
+  margin-left: 0cm;
+  text-align: justify;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  font-size: 10.5pt;
+  font-family: "Arial", sans-serif;
+  mso-fareast-font-family: "Arial", sans-serif;
+  mso-bidi-font-family: "Arial", sans-serif;
+  mso-ansi-language: EN-GB; }
+
+span.Heading1Char {
+  mso-style-name: "Heading 1 Char";
+  mso-style-priority: 1;
+  mso-style-unhide: no;
+  mso-style-locked: yes;
+  mso-style-parent: "";
+  mso-style-link: "Heading 1";
+  mso-ansi-font-size: 13.0pt;
+  font-family: "Arial", sans-serif;
+  mso-ascii-font-family: Cambria;
+  mso-fareast-font-family: "Arial", sans-serif;
+  mso-hansi-font-family: "Arial", sans-serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+span.Heading2Char {
+  mso-style-name: "Heading 2 Char";
+  mso-style-priority: 2;
+  mso-style-unhide: no;
+  mso-style-locked: yes;
+  mso-style-parent: "";
+  mso-style-link: "Heading 2";
+  mso-ansi-font-size: 12.0pt;
+  font-family: "Arial", sans-serif;
+  mso-ascii-font-family: Cambria;
+  mso-fareast-font-family: "Arial", sans-serif;
+  mso-hansi-font-family: "Arial", sans-serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+span.Heading3Char {
+  mso-style-name: "Heading 3 Char";
+  mso-style-priority: 3;
+  mso-style-unhide: no;
+  mso-style-locked: yes;
+  mso-style-parent: "";
+  mso-style-link: "Heading 3";
+  mso-ansi-font-size: 11.0pt;
+  font-family: "Arial", sans-serif;
+  mso-ascii-font-family: "Arial", sans-serif;
+  mso-fareast-font-family: "Arial", sans-serif;
+  mso-hansi-font-family: "Arial", sans-serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+span.Heading4Char {
+  mso-style-name: "Heading 4 Char";
+  mso-style-priority: 4;
+  mso-style-unhide: no;
+  mso-style-locked: yes;
+  mso-style-parent: "";
+  mso-style-link: "Heading 4";
+  mso-ansi-font-size: 11.0pt;
+  font-family: "Arial", sans-serif;
+  mso-ascii-font-family: "Arial", sans-serif;
+  mso-fareast-font-family: "Arial", sans-serif;
+  mso-hansi-font-family: "Arial", sans-serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+span.Heading5Char {
+  mso-style-name: "Heading 5 Char";
+  mso-style-priority: 5;
+  mso-style-unhide: no;
+  mso-style-locked: yes;
+  mso-style-parent: "";
+  mso-style-link: "Heading 5";
+  mso-ansi-font-size: 11.0pt;
+  font-family: "Arial", sans-serif;
+  mso-ascii-font-family: "Arial", sans-serif;
+  mso-fareast-font-family: "Arial", sans-serif;
+  mso-hansi-font-family: "Arial", sans-serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+span.Heading6Char {
+  mso-style-name: "Heading 6 Char";
+  mso-style-priority: 6;
+  mso-style-unhide: no;
+  mso-style-locked: yes;
+  mso-style-parent: "";
+  mso-style-link: "Heading 6";
+  mso-ansi-font-size: 11.0pt;
+  font-family: "Arial", sans-serif;
+  mso-ascii-font-family: "Arial", sans-serif;
+  mso-fareast-font-family: "Arial", sans-serif;
+  mso-hansi-font-family: "Arial", sans-serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.Tablebody, li.Tablebody, div.Tablebody {
+  mso-style-name: "Table body";
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  margin-top: 3.0pt;
+  margin-right: 0cm;
+  margin-bottom: 3.0pt;
+  margin-left: 0cm;
+  line-height: 10.5pt;
+  mso-pagination: widow-orphan;
+  font-size: 10.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Arial", sans-serif;
+  mso-fareast-font-family: "Arial", sans-serif;
+  mso-bidi-font-family: "Arial", sans-serif;
+  mso-ansi-language: EN-GB; }
+
+/* Page Definitions */
+@page {
+  size: 612.0pt 792.0pt;
+  margin: 36.0pt 53.85pt 21.55pt 53.85pt;
+  mso-header-margin: 42.55pt;
+  mso-footer-margin: 43.1pt;
+  mso-footnote-separator: url("file:///C:/Doc/csd-directive-document-requirements_files/header.html") fs;
+  mso-footnote-continuation-separator: url("file:///C:/Doc/csd-directive-document-requirements_files/header.html") fcs;
+  mso-endnote-separator: url("file:///C:/Doc/csd-directive-document-requirements_files/header.html") es;
+  mso-endnote-continuation-separator: url("file:///C:/Doc/csd-directive-document-requirements_files/header.html") ecs; }
+
+/* List Definitions */
+@list l0 {
+  mso-list-id: 145051656;
+  mso-list-template-ids: 2112159680; }
+
+@list l0:level1 {
+  mso-level-number-format: alpha-upper;
+  mso-level-style-link: ANNEX;
+  mso-level-suffix: none;
+  mso-level-text: "Annex\00A0%1";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-ansi-font-size: 14.0pt;
+  mso-bidi-font-size: 14.0pt;
+  font-family: "Arial", sans-serif;
+  mso-bidi-font-family: "Arial", sans-serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal; }
+
+@list l0:level2 {
+  mso-level-style-link: a2;
+  mso-level-text: "%1\.%2";
+  mso-level-tab-stop: 18.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Arial", sans-serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal; }
+
+@list l0:level3 {
+  mso-level-style-link: a3;
+  mso-level-text: "%1\.%2\.%3";
+  mso-level-tab-stop: 36.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Arial", sans-serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal; }
+
+@list l0:level4 {
+  mso-level-style-link: a4;
+  mso-level-text: "%1\.%2\.%3\.%4";
+  mso-level-tab-stop: 54.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Arial", sans-serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal; }
+
+@list l0:level5 {
+  mso-level-style-link: a5;
+  mso-level-text: "%1\.%2\.%3\.%4\.%5";
+  mso-level-tab-stop: 54.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Arial", sans-serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal; }
+
+@list l0:level6 {
+  mso-level-style-link: a6;
+  mso-level-text: "%1\.%2\.%3\.%4\.%5\.%6";
+  mso-level-tab-stop: 72.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Arial", sans-serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal; }
+
+@list l0:level7 {
+  mso-level-reset-level: level2;
+  mso-level-suffix: space;
+  mso-level-text: "Figure\00A0%1\.%7\00A0—";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Arial", sans-serif; }
+
+@list l0:level8 {
+  mso-level-reset-level: level2;
+  mso-level-suffix: space;
+  mso-level-text: "Table\00A0%1\.%8\00A0—";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Arial", sans-serif; }
+
+@list l0:level9 {
+  mso-level-number-format: roman-lower;
+  mso-level-text: "\(%9\)";
+  mso-level-tab-stop: 306.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Arial", sans-serif; }
+
+@list l1 {
+  mso-list-id: 866942648;
+  mso-list-template-ids: -1756330000; }
+
+@list l1:level1 {
+  mso-level-style-link: "Heading 1";
+  mso-level-text: "%1";
+  mso-level-tab-stop: 21.6pt;
+  mso-level-number-position: left;
+  margin-left: 21.6pt;
+  text-indent: -21.6pt;
+  mso-bidi-font-family: "Arial", sans-serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal; }
+
+@list l1:level2 {
+  mso-level-style-link: "Heading 2";
+  mso-level-text: "%1\.%2";
+  mso-level-tab-stop: 18.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Arial", sans-serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal; }
+
+@list l1:level3 {
+  mso-level-style-link: "Heading 3";
+  mso-level-text: "%1\.%2\.%3";
+  mso-level-tab-stop: 36.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Arial", sans-serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal; }
+
+@list l1:level4 {
+  mso-level-style-link: "Heading 4";
+  mso-level-text: "%1\.%2\.%3\.%4";
+  mso-level-tab-stop: 54.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Arial", sans-serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal; }
+
+@list l1:level5 {
+  mso-level-style-link: "Heading 5";
+  mso-level-text: "%1\.%2\.%3\.%4\.%5";
+  mso-level-tab-stop: 54.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Arial", sans-serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal; }
+
+@list l1:level6 {
+  mso-level-style-link: "Heading 6";
+  mso-level-text: "%1\.%2\.%3\.%4\.%5\.%6";
+  mso-level-tab-stop: 72.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Arial", sans-serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal; }
+
+@list l1:level7 {
+  mso-level-text: "%1\.%2\.%3\.%4\.%5\.%6\.%7";
+  mso-level-tab-stop: 72.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Arial", sans-serif; }
+
+@list l1:level8 {
+  mso-level-text: "%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8";
+  mso-level-tab-stop: 90.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Arial", sans-serif; }
+
+@list l1:level9 {
+  mso-level-text: "%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.%9";
+  mso-level-tab-stop: 90.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Arial", sans-serif; }
+
+/* ordered list */
+@list l2 {
+  mso-list-id: 525294607;
+  mso-list-template-ids: 67633181; }
+
+@list l2:level1 {
+  mso-level-number-format: alpha-lower;
+  mso-level-text: "%1\)";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 18.0pt;
+  text-indent: -18.0pt; }
+
+@list l2:level2 {
+  mso-level-text: "%2\)";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 36.0pt;
+  text-indent: -18.0pt; }
+
+@list l2:level3 {
+  mso-level-number-format: roman-lower;
+  mso-level-text: "%3\)";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 54.0pt;
+  text-indent: -18.0pt; }
+
+@list l2:level4 {
+  mso-level-number-format: alpha-upper;
+  mso-level-text: "%4\)";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 72.0pt;
+  text-indent: -18.0pt; }
+
+@list l2:level5 {
+  mso-level-number-format: roman-upper;
+  mso-level-text: "%5\)";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 90.0pt;
+  text-indent: -18.0pt; }
+
+@list l2:level6 {
+  mso-level-number-format: alpha-lower;
+  mso-level-text: "%6\)";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 108.0pt;
+  text-indent: -18.0pt; }
+
+@list l2:level7 {
+  mso-level-tab-stop: none;
+  mso-level-text: "%7\)";
+  mso-level-number-position: left;
+  margin-left: 126.0pt;
+  text-indent: -18.0pt; }
+
+@list l2:level8 {
+  mso-level-number-format: roman-lower;
+  mso-level-text: "%8\)";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 144.0pt;
+  text-indent: -18.0pt; }
+
+@list l2:level9 {
+  mso-level-number-format: alpha-upper;
+  mso-level-text: "%9\)";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 162.0pt;
+  text-indent: -18.0pt; }
+
+/* Unordered list */
+@list l3 {
+  mso-list-id: 1308196397;
+  mso-list-type: hybrid;
+  mso-list-template-ids: -277327948 -457018030 67633155 67633157 67633153 67633155 67633157 67633153 67633155 67633157; }
+
+@list l3:level1 {
+  mso-level-number-format: bullet;
+  mso-level-text: —;
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 18.0pt;
+  text-indent: -18.0pt; }
+
+@list l3:level2 {
+  mso-level-number-format: bullet;
+  mso-level-text: —;
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 36.0pt;
+  text-indent: -18.0pt; }
+
+@list l3:level3 {
+  mso-level-number-format: bullet;
+  mso-level-text: —;
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 54.0pt;
+  text-indent: -18.0pt; }
+
+@list l3:level4 {
+  mso-level-number-format: bullet;
+  mso-level-text: —;
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 72.0pt;
+  text-indent: -18.0pt; }
+
+@list l3:level5 {
+  mso-level-number-format: bullet;
+  mso-level-text: —;
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 90.0pt;
+  text-indent: -18.0pt; }
+
+@list l3:level6 {
+  mso-level-number-format: bullet;
+  mso-level-text: —;
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 108.0pt;
+  text-indent: -18.0pt; }
+
+@list l3:level7 {
+  mso-level-number-format: bullet;
+  mso-level-text: —;
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 126.0pt;
+  text-indent: -18.0pt; }
+
+@list l3:level8 {
+  mso-level-number-format: bullet;
+  mso-level-text: —;
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 144.0pt;
+  text-indent: -18.0pt; }
+
+@list l3:level9 {
+  mso-level-number-format: bullet;
+  mso-level-text: —;
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 162.0pt;
+  text-indent: -18.0pt; }
+
+table.MsoNormalTable {
+  mso-style-name: "Table Normal";
+  mso-tstyle-rowband-size: 0;
+  mso-tstyle-colband-size: 0;
+  mso-style-noshow: yes;
+  mso-style-priority: 99;
+  mso-style-parent: "";
+  mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;
+  mso-para-margin: 0cm;
+  mso-para-margin-bottom: .0001pt;
+  mso-pagination: widow-orphan;
+  font-size: 10.0pt;
+  mso-table-anchor-vertical: paragraph;
+  mso-table-bspace: 12.0pt;
+  font-family: "Arial", sans-serif; }
+
+br.section {
+  page-break-before: always;
+  mso-break-type: section-break; }
+
+br.pagebreak {
+  page-break-before: always;
+  mso-special-character: line-break; }
+
+ol {
+  margin-bottom: 0cm;
+  margin-left: 18pt; }
+
+ul {
+  margin-bottom: 0cm;
+  margin-left: 18pt; }
+
+-->
+</style><meta http-equiv=Content-Type content="text/html; charset=UTF-8"/>
+    <style>
+      <!--
+p.Sourcecode, li.Sourcecode, div.Sourcecode, pre.Sourcecode, pre {
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "";
+  margin-top: 6.0pt;
+  margin-right: 0cm;
+  margin-bottom: 6.0pt;
+  margin-left: 0cm;
+  text-align: left;
+  mso-pagination: widow-orphan;
+  tab-stops: 45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+  font-size: 10.0pt;
+  font-family: "Courier New", monospace;
+  mso-fareast-font-family: Calibri;
+  mso-bidi-font-family: "Courier New";
+  mso-ansi-language: EN-GB; }
+
+p.Biblio, li.Biblio, div.Biblio, p.NormRef, li.NormRef, div.NormRef {
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 33.15pt;
+  text-indent: -33.15pt;
+  tab-stops: 33.15pt;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  font-size: 10.5pt;
+  font-weight: normal;
+  font-family: "Arial", sans-serif;
+  mso-fareast-font-family: "Arial", sans-serif;
+  mso-bidi-font-family: "Arial", sans-serif;
+  mso-ansi-language: EN-GB; }
+
+p.FigureTitle {
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 6.0pt;
+  margin-left: 0cm;
+  text-align: center;
+  line-height: 12.0pt;
+  page-break-before: avoid;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-weight: bold;
+  font-family: "Arial", sans-serif;
+  mso-fareast-font-family: "Arial", sans-serif;
+  mso-bidi-font-family: "Arial", sans-serif;
+  mso-ansi-language: EN-GB; }
+
+p.TableTitle {
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 6.0pt;
+  margin-left: 0cm;
+  text-align: center;
+  page-break-after: avoid;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Arial", sans-serif;
+  mso-fareast-font-family: "Arial", sans-serif;
+  mso-bidi-font-family: "Arial", sans-serif;
+  mso-ansi-language: EN-GB; }
+
+p.Note, div.Note, li.Note, p.TableFootnote, div.TableFootnote, li.TableFootnote {
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 0cm;
+  text-align: justify;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 10.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Arial", sans-serif;
+  font-size: 10.0pt;
+  mso-fareast-font-family: "Arial", sans-serif;
+  mso-bidi-font-family: "Arial", sans-serif;
+  mso-ansi-language: EN-GB; }
+
+p.ANNEX, li.ANNEX, div.ANNEX {
+  mso-style-name: ANNEX;
+  mso-style-priority: 10;
+  mso-style-unhide: no;
+  mso-style-next: Normal;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 24.0pt;
+  margin-left: 0cm;
+  text-align: center;
+  text-indent: 0cm;
+  line-height: 15.5pt;
+  mso-line-height-rule: exactly;
+  page-break-before: always;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-outline-level: 1;
+  mso-list: l0 level1 lfo12;
+  tab-stops: 20.15pt;
+  font-size: 14.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Arial", sans-serif;
+  mso-fareast-font-family: "Arial", sans-serif;
+  mso-bidi-font-family: "Arial", sans-serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.BiblioTitle, li.BiblioTitle, div.BiblioTitle {
+  mso-style-name: "Biblio Title";
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 15.5pt;
+  margin-left: 0cm;
+  text-align: center;
+  line-height: 15.5pt;
+  mso-pagination: widow-orphan;
+  mso-outline-level: 1;
+  tab-stops: 20.15pt;
+  font-size: 14.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Arial", sans-serif;
+  mso-fareast-font-family: "Arial", sans-serif;
+  mso-bidi-font-family: "Arial", sans-serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.Definition, li.Definition, div.Definition {
+  mso-style-name: Definition;
+  mso-style-priority: 9;
+  mso-style-unhide: no;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 0cm;
+  text-align: justify;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Arial", sans-serif;
+  mso-fareast-font-family: "Arial", sans-serif;
+  mso-bidi-font-family: "Arial", sans-serif;
+  mso-ansi-language: EN-GB; }
+
+p.ForewordTitle, li.ForewordTitle, div.ForewordTitle {
+  mso-style-name: "Foreword Title";
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 15.5pt;
+  margin-left: 0cm;
+  text-align: justify;
+  line-height: 15.5pt;
+  page-break-before: always;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-outline-level: 1;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt;
+  font-size: 14.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Arial", sans-serif;
+  mso-fareast-font-family: "Arial", sans-serif;
+  mso-bidi-font-family: "Arial", sans-serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.IntroTitle, li.IntroTitle, div.IntroTitle {
+  mso-style-name: "Intro Title";
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  mso-style-parent: "Foreword Title";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 15.5pt;
+  margin-left: 0cm;
+  text-align: justify;
+  line-height: 15.5pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-outline-level: 1;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt;
+  font-size: 14.0pt;
+  mso-bidi-font-size: 11.0pt;
+  page-break-before: always;
+  font-family: "Arial", sans-serif;
+  mso-fareast-font-family: "Arial", sans-serif;
+  mso-bidi-font-family: "Arial", sans-serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.Terms, li.Terms, div.Terms {
+  mso-style-name: "Term\(s\)";
+  mso-style-priority: 8;
+  mso-style-unhide: no;
+  mso-style-next: Definition;
+  margin: 0cm;
+  margin-bottom: .0001pt;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Arial", sans-serif;
+  mso-fareast-font-family: "Arial", sans-serif;
+  mso-bidi-font-family: "Arial", sans-serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.AltTerms, li.AltTerms, div.AltTerms {
+  mso-style-name: "AltTerm\(s\)";
+  mso-style-priority: 8;
+  mso-style-unhide: no;
+  mso-style-next: Definition;
+  margin: 0cm;
+  margin-bottom: .0001pt;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Arial", sans-serif;
+  mso-fareast-font-family: "Arial", sans-serif;
+  mso-bidi-font-family: "Arial", sans-serif;
+  mso-ansi-language: EN-GB;
+  mso-bidi-font-weight: normal; }
+
+p.DeprecatedTerms, li.DeprecatedTerms, div.DeprecatedTerms {
+  mso-style-name: "DeprecatedTerm\(s\)";
+  mso-style-priority: 8;
+  mso-style-unhide: no;
+  mso-style-next: Definition;
+  margin: 0cm;
+  margin-bottom: .0001pt;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Arial", sans-serif;
+  mso-fareast-font-family: "Arial", sans-serif;
+  mso-bidi-font-family: "Arial", sans-serif;
+  mso-ansi-language: EN-GB;
+  mso-bidi-font-weight: normal; }
+
+p.TermNum, li.TermNum, div.TermNum {
+  mso-style-name: TermNum;
+  mso-style-priority: 7;
+  mso-style-unhide: no;
+  mso-style-next: "Term\(s\)";
+  margin: 0cm;
+  margin-bottom: .0001pt;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Arial", sans-serif;
+  mso-fareast-font-family: "Arial", sans-serif;
+  mso-bidi-font-family: "Arial", sans-serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.zzContents, li.zzContents, div.zzContents {
+  mso-style-name: zzContents;
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  mso-style-next: "TOC 1";
+  margin-top: 48.0pt;
+  margin-right: 0cm;
+  margin-bottom: 15.5pt;
+  margin-left: 0cm;
+  line-height: 15.5pt;
+  mso-line-height-rule: exactly;
+  page-break-before: always;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt;
+  font-size: 14.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Arial", sans-serif;
+  mso-fareast-font-family: "Arial", sans-serif;
+  mso-bidi-font-family: "Arial", sans-serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.zzCopyright, li.zzCopyright {
+  mso-style-name: zzCopyright;
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  mso-style-next: Normal;
+  margin-top: 0cm;
+  margin-right: 14.2pt;
+  margin-bottom: 12.0pt;
+  margin-left: 14.2pt;
+  text-align: justify;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt 25.7pt 481.15pt;
+  padding: 0cm;
+  mso-padding-alt: 1.0pt 4.0pt 1.0pt 4.0pt;
+  font-size: 10.5pt;
+  font-family: "Arial", sans-serif;
+  mso-fareast-font-family: "Arial", sans-serif;
+  mso-bidi-font-family: "Arial", sans-serif;
+  mso-ansi-language: EN-GB; }
+
+div.zzCopyright {
+  mso-element: para-border-div;
+  border: solid windowtext 1.0pt;
+  mso-border-top-alt: solid windowtext .5pt;
+  mso-border-left-alt: solid windowtext .5pt;
+  mso-border-right-alt: solid windowtext .5pt;
+  mso-border-bottom-alt: solid windowtext .5pt;
+  padding: 1.0pt 4.0pt 0cm 4.0pt;
+  margin-left: 5.1pt;
+  margin-right: 5.1pt; }
+
+p.zzCopyright_address {
+  margin-top: 0cm;
+  margin-right: 14.2pt;
+  margin-bottom: 0.0pt;
+  margin-left: 14.2pt;
+  mso-layout-grid-align: none;
+  text-autospace: none;
+  padding-left: 20pt;
+  mso-padding-alt-left: 20pt;
+  font-size: 10.0pt;
+  text-align: left;
+  mso-bidi-font-size: 11.0pt; }
+
+p.zzSTDTitle, li.zzSTDTitle, div.zzSTDTitle {
+  mso-style-name: zzSTDTitle;
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  mso-style-next: Normal;
+  margin-top: 20.0pt;
+  margin-right: 0cm;
+  margin-bottom: 38.0pt;
+  margin-left: 0cm;
+  line-height: 17.5pt;
+  mso-line-height-rule: exactly;
+  mso-pagination: widow-orphan;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt;
+  font-size: 16.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Arial", sans-serif;
+  mso-fareast-font-family: "Arial", sans-serif;
+  mso-bidi-font-family: "Arial", sans-serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.zzSTDTitle1, li.zzSTDTitle1, div.zzSTDTitle1 {
+  mso-style-name: zzSTDTitle;
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  mso-style-next: Normal;
+  margin-top: 0pt;
+  margin-right: 0cm;
+  margin-bottom: 18.0pt;
+  margin-left: 0cm;
+  line-height: 17.5pt;
+  mso-line-height-rule: exactly;
+  mso-pagination: widow-orphan;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt;
+  font-size: 16.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Arial", sans-serif;
+  mso-fareast-font-family: "Arial", sans-serif;
+  mso-bidi-font-family: "Arial", sans-serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.Quote, li.Quote, div.Quote {
+  mso-style-priority: 99;
+  margin-top: 0cm;
+  margin-right: 36.0pt;
+  margin-bottom: 0cm;
+  margin-left: 36.0pt;
+  text-align: justify;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 10.5pt;
+  font-family: "Arial", sans-serif;
+  mso-fareast-font-family: "Arial", sans-serif;
+  mso-bidi-font-family: "Arial", sans-serif;
+  mso-ansi-language: EN-GB; }
+
+p.QuoteAttribution {
+  text-align: right;
+  mso-style-priority: 99;
+  margin-top: 0cm;
+  margin-right: 36.0pt;
+  margin-bottom: 0cm;
+  margin-left: 36.0pt;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 10.5pt;
+  font-family: "Arial", sans-serif;
+  mso-fareast-font-family: "Arial", sans-serif;
+  mso-bidi-font-family: "Arial", sans-serif;
+  mso-ansi-language: EN-GB; }
+
+p.Admonition, li.Admonition, div.Admonition {
+  mso-style-priority: 99;
+  margin-top: 0cm;
+  margin-right: 57.6pt;
+  margin-bottom: 0cm;
+  margin-left: 57.6pt;
+  margin-bottom: .0001pt;
+  mso-pagination: widow-orphan;
+  border: none;
+  mso-border-alt: solid #4472C4 .25pt;
+  mso-border-themecolor: accent1;
+  padding: 0cm;
+  mso-padding-alt: 10.0pt 10.0pt 10.0pt 10.0pt;
+  font-size: 12.0pt;
+  font-family: "Arial", sans-serif;
+  mso-ascii-font-family: "Arial", sans-serif;
+  mso-ascii-theme-font: minor-latin;
+  mso-fareast-font-family: "Arial", sans-serif;
+  mso-fareast-theme-font: minor-fareast;
+  mso-hansi-font-family: "Arial", sans-serif;
+  mso-hansi-theme-font: minor-latin;
+  mso-bidi-font-family: "Arial", sans-serif;
+  mso-bidi-theme-font: minor-bidi;
+  color: #4472C4;
+  mso-themecolor: accent1;
+  mso-ansi-language: EN-AU;
+  font-style: italic; }
+
+p.Code, li.Code, div.Code {
+  mso-style-name: Code;
+  mso-style-priority: 16;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  margin: 0cm;
+  margin-bottom: .0001pt;
+  line-height: 10.0pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 9.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Courier New", monospace;
+  mso-fareast-font-family: Calibri;
+  mso-bidi-font-family: "Source Sans Pro";
+  mso-ansi-language: EN-GB; }
+
+p.Formula, li.Formula, div.Formula {
+  mso-style-name: Formula;
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 11.0pt;
+  margin-left: 20.15pt;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  tab-stops: right 487.45pt;
+  font-size: 10.5pt;
+  font-family: "Arial", sans-serif;
+  mso-fareast-font-family: "Arial", sans-serif;
+  mso-bidi-font-family: "Arial", sans-serif;
+  mso-ansi-language: EN-GB; }
+
+@page WordSection1 {
+  size: 595.3pt 841.9pt;
+  margin: 39.7pt 53.85pt 1.0cm 53.85pt;
+  mso-header-margin: 35.45pt;
+  mso-footer-margin: 14.2pt;
+  mso-even-header: url("file:///C:/Doc/csd-directive-document-requirements_files/header.html") eh1;
+  mso-header: url("file:///C:/Doc/csd-directive-document-requirements_files/header.html") h1;
+  mso-even-footer: url("file:///C:/Doc/csd-directive-document-requirements_files/header.html") ef1;
+  mso-paper-source: 0; }
+
+div.WordSection1 {
+  page: WordSection1; }
+
+@page WordSection2 {
+  size: 595.3pt 841.9pt;
+  margin: 39.7pt 53.85pt 1.0cm 53.85pt;
+  mso-header-margin: 35.45pt;
+  mso-footer-margin: 14.2pt;
+  mso-page-numbers: roman-lower;
+  mso-even-header: url("file:///C:/Doc/csd-directive-document-requirements_files/header.html") eh2;
+  mso-header: url("file:///C:/Doc/csd-directive-document-requirements_files/header.html") h2;
+  mso-even-footer: url("file:///C:/Doc/csd-directive-document-requirements_files/header.html") ef2;
+  mso-footer: url("file:///C:/Doc/csd-directive-document-requirements_files/header.html") f2;
+  mso-paper-source: 0; }
+
+div.WordSection2 {
+  page: WordSection2; }
+
+@page WordSection3 {
+  size: 595.3pt 841.9pt;
+  margin: 39.7pt 53.85pt 1.0cm 53.85pt;
+  mso-header-margin: 35.45pt;
+  mso-footer-margin: 14.2pt;
+  mso-page-numbers: 1;
+  mso-even-header: url("file:///C:/Doc/csd-directive-document-requirements_files/header.html") eh2;
+  mso-header: url("file:///C:/Doc/csd-directive-document-requirements_files/header.html") h2;
+  mso-even-footer: url("file:///C:/Doc/csd-directive-document-requirements_files/header.html") ef3;
+  mso-footer: url("file:///C:/Doc/csd-directive-document-requirements_files/header.html") f3;
+  mso-paper-source: 0; }
+
+div.WordSection3 {
+  page: WordSection3; }
+
+ol {
+  margin-bottom: 0cm; }
+
+ul {
+  margin-bottom: 0cm; }
+
+table.MsoISOTable {
+  mso-style-name: "Table ISO";
+  mso-tstyle-rowband-size: 0;
+  mso-tstyle-colband-size: 0;
+  mso-style-noshow: yes;
+  mso-style-priority: 99;
+  mso-style-parent: "";
+  mso-padding-alt: 0cm 2.85pt 0cm 2.85pt;
+  mso-para-margin: 0cm;
+  mso-para-margin-bottom: .0001pt;
+  mso-pagination: widow-orphan;
+  border-collapse: collapse;
+  mso-table-layout-alt: fixed;
+  border: solid windowtext 2pt;
+  mso-border-alt: solid windowtext 2pt;
+  mso-yfti-tbllook: 480;
+  mso-border-insideh: .75pt solid windowtext;
+  mso-border-insidev: .75pt solid windowtext;
+  mso-table-anchor-vertical: paragraph;
+  mso-table-bspace: 12.0pt;
+  font-size: 10.0pt;
+  font-family: "Arial", sans-serif; }
+
+table.MsoISOTable tr {
+  page-break-inside: avoid; }
+
+table.MsoISOTable th {
+  border: solid windowtext 1pt;
+  mso-border-alt: solid windowtext 1pt;
+  padding: 0cm 2.85pt 0cm 2.85pt; }
+
+table.MsoISOTable td {
+  border: solid windowtext 1pt;
+  mso-border-alt: solid windowtext 1pt;
+  padding: 0cm 2.85pt 0cm 2.85pt; }
+
+table.MsoTableGrid {
+  mso-style-name: "Table Grid";
+  mso-tstyle-rowband-size: 0;
+  mso-tstyle-colband-size: 0;
+  mso-style-priority: 39;
+  mso-style-unhide: no;
+  border: solid windowtext 1.0pt;
+  mso-border-alt: solid windowtext .5pt;
+  mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;
+  mso-border-insideh: .5pt solid windowtext;
+  mso-border-insidev: .5pt solid windowtext;
+  mso-para-margin: 0cm;
+  mso-para-margin-bottom: .0001pt;
+  mso-pagination: widow-orphan;
+  mso-table-anchor-vertical: paragraph;
+  mso-table-bspace: 12.0pt;
+  font-size: 10.0pt;
+  font-family: "Arial", sans-serif; }
+
+td {
+  page-break-inside: avoid; }
+
+tr {
+  page-break-after: avoid; }
+
+span.stem {
+  font-family: "Cambria Math",serif;
+  mso-ascii-font-family: "Cambria Math";
+  font-style: italic; }
+
+div.formula {
+  tab-stops: right 487.45pt; }
+
+body {
+  tab-interval: 36.0pt; }
+
+dt {
+  page-break-inside: avoid;
+  page-break-after: avoid; }
+
+.coverpage_docnumber {
+  text-align: center;
+  font-size: 14.0pt;
+  font-weight: bold; }
+
+.coverpage_techcommittee {
+  text-align: center;
+  font-size: 12.0pt; }
+
+.coverpage_docstage {
+  text-align: center;
+  font-size: 30.0pt;
+  color: #485094; }
+
+div.coverpage_warning {
+  mso-element: para-border-div;
+  border: solid windowtext 1.0pt #485094;
+  mso-border-alt: solid windowtext .5pt;
+  padding: 1.0pt 4.0pt 1.0pt 4.0pt #485094;
+  font-size: 10.0pt;
+  margin-left: 4.25pt;
+  margin-right: 4.25pt; }
+
+.coverpage_warning {
+  color: #485094;
+  font-size: 10.0pt; }
+
+a.TableFootnoteRef {
+  mso-style-priority: 99;
+  vertical-align: super; }
+
+aside {
+  font-size: 10.0pt; }
+
+div.example {
+  margin-left: 70.9pt;
+  text-indent: -70.9pt; }
+
+p.example, li.example, div.example, td.example {
+  margin: 0in;
+  margin-bottom: .0001pt;
+  mso-pagination: none;
+  font-size: 10.0pt;
+  font-family: "Arial", sans-serif; }
+
+td.example p.MsoListParagraph {
+  font-size: 10.0pt; }
+
+table.example {
+  margin-bottom: 12pt; }
+
+span.note_label, span.example_label, td.example_label, td.note_label {
+  font-size: 10.0pt;
+  font-family: "Arial", sans-serif; }
+
+table.dl {
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 11.0pt;
+  margin-left: 20.15pt; }
+
+-->
+    </style>
+  </head>
+  <body lang="EN-US" link="blue" vlink="#954F72" xml:lang="EN-US">
+    <div class="WordSection1"><p class="MsoNormal" align="right" style="text-align:right">
+  <b style="mso-bidi-font-weight:&#10;normal">
+    <span lang="EN-GB" style="font-size:14.0pt;mso-no-proof:yes" xml:lang="EN-GB">CC/DIR/FDS 10002:2018 </span>
+  </b>
+  <b style="mso-bidi-font-weight:normal">
+    <span lang="EN-GB" style="font-size:14.0pt" xml:lang="EN-GB">
+      <p class="MsoNormal"></p>
+    </span>
+  </b>
+</p>
+
+<p class="MsoNormal" align="right" style="text-align:right">
+  <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">CalConnect&#xA0;</span>
+  <span lang="EN-GB" xml:lang="EN-GB">
+    <span style="mso-no-proof:yes">PUBLISH</span>
+  </span>
+</p>
+
+<p class="MsoNormal" align="center" style="text-align:center;line-height:18.0pt;margin-bottom:0.0pt">
+  <b style="mso-bidi-font-weight:normal"><span lang="EN-GB" style="font-size:24.0pt" xml:lang="EN-GB">CalConnect Directive: Standard document requirements</span>
+</b>
+  <br/>
+  <span lang="EN-GB" style="font-size:16.0pt" xml:lang="EN-GB"></span>
+</p>
+
+  
+  <p class="MsoNormal" align="center" style="text-align:center">
+    <span>Editors: </span>
+  </p>
+  
+  
+  <p class="MsoNormal" align="center" style="text-align:center">
+    <span>Authors: </span>
+  </p>
+  
+
+<p class="MsoNormal" style="margin-top:100.0pt">
+  <span lang="EN-GB" xml:lang="EN-GB">
+    <p class="MsoNormal">&#xA0;</p>
+  </span>
+</p>
+
+<div style="mso-element:para-border-div;border:solid windowtext 1.0pt;&#10;mso-border-alt:solid windowtext .5pt;padding:1.0pt 4.0pt 1.0pt 4.0pt;&#10;margin-left:4.25pt;margin-right:4.25pt">
+
+<p class="MsoNormal" align="center" style="text-align:center;border:none;&#10;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:1.0pt 4.0pt 1.0pt 4.0pt"><span lang="EN-GB" style="font-size:16.0pt" xml:lang="EN-GB">Directive</span></p>
+
+
+</div>
+
+<p class="MsoNormal" style="margin-bottom:6.0pt">
+  <span lang="EN-GB" xml:lang="EN-GB">
+    <p class="MsoNormal">&#xA0;</p>
+  </span>
+</p>
+
+<div style="mso-element:para-border-div;border:solid windowtext 1.0pt;&#10;mso-border-alt:solid windowtext .5pt;padding:1.0pt 4.0pt 1.0pt 4.0pt;&#10;margin-left:4.25pt;margin-right:4.25pt">
+
+
+
+</div>
+
+<p class="MsoNormal" align="center" style="text-align:center">
+  <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">The Calendaring and Scheduling Consortium, Inc.&#xA0;</span>
+  <span lang="EN-GB" xml:lang="EN-GB">
+    <span style="mso-no-proof:yes">2018</span>
+  </span>
+</p>
+
+
+
+
+
+      <p class="MsoNormal">&#xA0;</p>
+    </div>
+    <br clear="all" class="section"/>
+    <div class="WordSection2"><div class="copyright">
+  <p class="year">
+    &#xA9; 2018 The Calendaring and Scheduling Consortium, Inc.
+  </p>
+
+  <p class="message">
+    All rights reserved. Unless otherwise specified, no part of this
+    publication may be reproduced or utilized otherwise in any form or by any
+    means, electronic or mechanical, including photocopying, or posting on the
+    internet or an intranet, without prior written permission. Permission can
+    be requested from the address below.
+  </p>
+
+<div class="contact-info">
+  <p class="name">The Calendaring and Scheduling Consortium, Inc.</p>
+  <p class="address">
+    4390 Chaffin Lane<br/>
+    McKinleyville<br/>
+    California 95519<br/>
+    United States of America<br/>
+    <br/>
+    <a href="mailto:copyright@calconnect.org">copyright@calconnect.org</a><br/>
+    <a href="www.calconnect.org">www.calconnect.org</a>
+  </p>
+</div>
+</div>
+
+
+
+
+<p class="zzContents" style="margin-top:0cm">
+  <span lang="EN-GB" xml:lang="EN-GB">Contents</span>
+</p>
+
+<p class="MsoToc1"><span lang="EN-GB" xml:lang="EN-GB"><span style="mso-element:field-begin"></span><span style="mso-spacerun:yes">&#xA0;</span>TOC
+  \o "1-2" \h \z \u <span style="mso-element:field-separator"></span></span>
+<span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc25496988">Foreword<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc25496988 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
+
+<p class="MsoToc1">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc170633976">Introduction<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc170633976 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc1">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc658667114">1. Scope<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc658667114 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc1">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc137421611">2. Normative references<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc137421611 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc1">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc329991892">3. Terms, definitions, symbols and abbreviated terms<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc329991892 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc2">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc702915013">3.1. Terms and definitions<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc702915013 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc2">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc103989710">3.2. Symbols and abbreviated terms<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc103989710 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc1">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc877621917">4. Project/document identifier<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc877621917 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc2">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc487477953">4.1. General<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc487477953 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc2">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc963868486">4.2. Project index<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc963868486 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc2">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc249679556">4.3. Project code<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc249679556 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc2">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc665638266">4.4. Document identifier<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc665638266 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc1">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc547369312">5. Document structure<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc547369312 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc2">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc737846487">5.1. General<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc737846487 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc2">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc876752306">5.2. Cover page<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc876752306 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc2">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc135758985">5.3. Draft warning<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc135758985 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc2">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc110454026">5.4. Public review note<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc110454026 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc2">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc298934771">5.5. Technical committee<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc298934771 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc2">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc382990272">5.6. Contributor acknowledgement<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc382990272 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc2">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc923580649">5.7. Table of contents<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc923580649 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc2">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc997372835">5.8. Sections and subsections<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc997372835 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc2">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc159466828">5.9. Referable document elements<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc159466828 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc2">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc974719022">5.10. Foreword<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc974719022 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc2">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc803455933">5.11. Introduction<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc803455933 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc2">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc88182164">5.12. Scope<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc88182164 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc2">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc618382679">5.13. Normative and informative references<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc618382679 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc2">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc206712053">5.14. Terms and definitions<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc206712053 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc2">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc434338379">5.15. Annexes and appendices<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc434338379 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc2">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc396890">5.16. Change summary<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc396890 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc2">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc299736717">5.17. Page numbers<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc299736717 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc2">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc22217411">5.18. Trademark and copyright statement<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc22217411 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc2">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc213548706">5.19. Draft documents<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc213548706 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc2">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc107337217">5.20. Canonical representation<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc107337217 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc1">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc818167636">Bibliography<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc818167636 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc1">
+  <span lang="EN-GB" xml:lang="EN-GB">
+    <span style="mso-element:field-end"></span>
+  </span>
+  <span lang="EN-GB" xml:lang="EN-GB">
+    <p class="MsoNormal">&#xA0;</p>
+  </span>
+</p>
+
+
+      <br clear="all" style="mso-special-character:line-break;page-break-before:always"/>
+      <div>
+        <h1 class="ForewordTitle">Foreword</h1>
+        <p class="MsoNormal"><a name="_427221a1-a9f3-419e-9c8c-89e9cd4b2331" id="_427221a1-a9f3-419e-9c8c-89e9cd4b2331"></a>The Calendaring and Scheduling Consortium ("CalConnect") is global
+non-profit organization with the aim to facilitate interoperability of
+collaborative technologies and tools through open standards.</p>
+        <p class="MsoNormal"><a name="_ac7d406e-bd63-4f55-9523-3d0482cafb77" id="_ac7d406e-bd63-4f55-9523-3d0482cafb77"></a>CalConnect works closely with international and regional partners,
+of which the full list is available on our website
+(<a href="https://www.calconnect.org/about/liaisons-and-relationships">https://www.calconnect.org/about/liaisons-and-relationships</a>).</p>
+        <p class="MsoNormal"><a name="_c87cd29f-a94b-468c-ba7b-58e41c9aeea1" id="_c87cd29f-a94b-468c-ba7b-58e41c9aeea1"></a>The procedures used to develop this document and those intended for its
+further maintenance are described in the CalConnect Directives.</p>
+        <p class="MsoNormal"><a name="_8a06646f-18cd-4369-a1c2-d60c098a627a" id="_8a06646f-18cd-4369-a1c2-d60c098a627a"></a>In particular the different approval criteria needed for the different
+types of CalConnect documents should be noted. This document was drafted in
+accordance with the editorial rules of the CalConnect Directives.</p>
+        <p class="MsoNormal"><a name="_d8ed484e-c2d7-445a-891b-0ac96eea40ac" id="_d8ed484e-c2d7-445a-891b-0ac96eea40ac"></a>Attention is drawn to the possibility that some of the elements of this
+document may be the subject of patent rights. CalConnect shall not be
+held responsible for identifying any or all such patent rights. Details
+of any patent rights identified during the development of the document
+will be provided in the Introduction.</p>
+        <p class="MsoNormal"><a name="_56c0f18c-450f-4838-9046-160958cb0f70" id="_56c0f18c-450f-4838-9046-160958cb0f70"></a>Any trade name used in this document is information given for the
+convenience of users and does not constitute an endorsement.</p>
+        <p class="MsoNormal"><a name="_91f64794-d516-4d71-84e1-0dc4a673ea1f" id="_91f64794-d516-4d71-84e1-0dc4a673ea1f"></a>This document was prepared by Technical Committee
+<i>PUBLISH</i>.</p>
+        <p class="MsoNormal"><a name="_75c1fdc8-9c5b-42e6-82f8-665d7493ab38" id="_75c1fdc8-9c5b-42e6-82f8-665d7493ab38"></a>This document, together with <a href="#CCSTD">CC/DIR 10001</a>,
+replaces the following documents:</p>
+        
+  <p style="mso-list:l3 level1 lfo1;" class="MsoListParagraphCxSpFirst">
+    I0701 CalConnect Document Public Review and Comment
+  </p>
+  <p style="mso-list:l3 level1 lfo1;" class="MsoListParagraphCxSpMiddle">
+    I0702 CalConnect Document Classification and Numbering
+  </p>
+  <p style="mso-list:l3 level1 lfo1;" class="MsoListParagraphCxSpLast">
+    I0703 CalConnect Document Processes and Management
+  </p>
+
+      </div>
+      <br clear="all" style="mso-special-character:line-break;page-break-before:always"/>
+      <div class="Section3"><a name="_introduction" id="_introduction"></a>
+        <h1 class="IntroTitle">Introduction</h1>
+        <p class="MsoNormal"><a name="_40e98811-b6c4-4240-a7a9-6c2dfda97bba" id="_40e98811-b6c4-4240-a7a9-6c2dfda97bba"></a>CalConnect is committed in expanding the realm of standards
+in collaborative technologies with a focus on interoperability
+across the globe and communities of practice.</p>
+        <p class="MsoNormal"><a name="_fef66cf3-7a9a-42ef-b20a-9de90654633d" id="_fef66cf3-7a9a-42ef-b20a-9de90654633d"></a>To facilitate its mission, the CalConnect Board of Directors has decided
+to align standardization and publication processes with international
+best practices, such as the ISO standardization process
+(<a href="#ISODIR1">ISO/IEC Directives, Part 1</a>, <a href="#ISODIR1C">ISO/IEC Directives, Part 1, Consolidated ISO Supplement</a>, <a href="#ISODIR2">ISO/IEC Directives, Part 2</a>)
+and the <a href="#WTOTBT">WTO Technical Barriers To Trade Agreements</a>.</p>
+        <p class="MsoNormal"><a name="_d69fdf05-d25d-4d91-b289-c570ef60e51c" id="_d69fdf05-d25d-4d91-b289-c570ef60e51c"></a>This document aims to achieve the said intention.</p>
+        <p class="MsoNormal"><a name="_b86c55af-d925-47c0-a4fe-6a36d8703443" id="_b86c55af-d925-47c0-a4fe-6a36d8703443"></a>The document describes requirements for CalConnect standard documents.</p>
+      </div>
+      <p class="MsoNormal">&#xA0;</p>
+    </div>
+    <br clear="all" class="section"/>
+    <div class="WordSection3">
+      <p class="zzSTDTitle1">CalConnect Directive: Standard document requirements</p>
+      <div><a name="_scope" id="_scope"></a>
+        <h1>1.<span style="mso-tab-count:1">&#xA0; </span>Scope</h1>
+        <p class="MsoNormal"><a name="_b2722b3b-e6e3-4998-9d55-5105b7680ad8" id="_b2722b3b-e6e3-4998-9d55-5105b7680ad8"></a>This document provides requirements on document structure of the following types of CalConnect publication:</p>
+        
+  <p style="mso-list:l3 level1 lfo2;" class="MsoListParagraphCxSpFirst">
+    Directive
+  </p>
+  <p style="mso-list:l3 level1 lfo2;" class="MsoListParagraphCxSpMiddle">
+    Standard
+  </p>
+  <p style="mso-list:l3 level1 lfo2;" class="MsoListParagraphCxSpMiddle">
+    Guide
+  </p>
+  <p style="mso-list:l3 level1 lfo2;" class="MsoListParagraphCxSpMiddle">
+    Specification
+  </p>
+  <p style="mso-list:l3 level1 lfo2;" class="MsoListParagraphCxSpMiddle">
+    Amendment
+  </p>
+  <p style="mso-list:l3 level1 lfo2;" class="MsoListParagraphCxSpMiddle">
+    Technical corrigendum
+  </p>
+  <p style="mso-list:l3 level1 lfo2;" class="MsoListParagraphCxSpLast">
+    Report
+  </p>
+
+        <p class="MsoNormal"><a name="_1f1b50fa-2316-484f-b867-cbb7652d618e" id="_1f1b50fa-2316-484f-b867-cbb7652d618e"></a>These publication types are described in <a href="#CCSTD">CC/DIR 10001</a>.</p>
+        <p class="MsoNormal"><a name="_ec807de9-8e67-48cf-af18-f1ce3e955e7a" id="_ec807de9-8e67-48cf-af18-f1ce3e955e7a"></a>This document does not apply to the following types of documents
+produced by CalConnect, although processes described in this document
+can be optionally used as guidance:</p>
+        
+  <p style="mso-list:l3 level1 lfo3;" class="MsoListParagraphCxSpFirst">
+    policy statements;
+  </p>
+  <p style="mso-list:l3 level1 lfo3;" class="MsoListParagraphCxSpMiddle">
+    internal administrative documents; and
+  </p>
+  <p style="mso-list:l3 level1 lfo3;" class="MsoListParagraphCxSpLast">
+    how-to guides.
+  </p>
+
+      </div>
+      <div>
+        <h1>2.<span style="mso-tab-count:1">&#xA0; </span>Normative references</h1>
+        <p class="MsoNormal">The following documents are referred to in the text in such a way that some or all of their content constitutes requirements of this document. For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments) applies.</p>
+        <p class="NormRef"><a name="CCSTD" id="CCSTD"></a>CC/DIR 10001,
+    <i>CalConnect Directive: Standardization and publication</i>
+  </p>
+      </div>
+      <div><a name="terms" id="terms"></a><h1>3.<span style="mso-tab-count:1">&#xA0; </span>Terms, definitions, symbols and abbreviated terms</h1><p class="MsoNormal">For the purposes of this document, the terms and definitions
+  given in <a href="#ISODIR1">ISO/IEC Directives, Part 1</a>, <a href="#ISODIR1C">ISO/IEC Directives, Part 1, Consolidated ISO Supplement</a>, <a href="#ISODIR2">ISO/IEC Directives, Part 2</a> and <a href="#CCSTD">CC/DIR 10001</a> and the following apply.</p>
+<div><a name="_terms_and_definitions" id="_terms_and_definitions"></a><h2>3.1. Terms and definitions</h2><p class="TermNum"><a name="term-std-work-item" id="term-std-work-item"></a>3.1.1&#xA0;<p class="Terms" style="text-align:left;">standardization work item</p></p>
+  
+  <p class="MsoNormal"><a name="_28f33cbd-3537-4766-a0dc-d62e0647f96f" id="_28f33cbd-3537-4766-a0dc-d62e0647f96f"></a>publishable work item that creates output that relates
+to standardization</p>
+
+<p class="TermNum"><a name="term-std-project" id="term-std-project"></a>3.1.2&#xA0;<p class="Terms" style="text-align:left;">standardization project</p></p>
+  
+  <p class="MsoNormal"><a name="_d80f8c76-b255-4e12-aafc-9ca9dfdd853d" id="_d80f8c76-b255-4e12-aafc-9ca9dfdd853d"></a>organized process with one or more
+<i>standardization work items</i> (<a href="#term-std-work-item">Clause 3.1.1</a>) that
+contributes towards a defined scope of work</p>
+
+<p class="TermNum"><a name="term-project-owner" id="term-project-owner"></a>3.1.3&#xA0;<p class="Terms" style="text-align:left;">project owner</p></p>
+  
+  <p class="MsoNormal"><a name="_d15fd337-ba7e-4849-bb3c-b812f2955917" id="_d15fd337-ba7e-4849-bb3c-b812f2955917"></a>entity with authority in charge of a <i>standardization project</i>
+(<a href="#term-std-project">Clause 3.1.2</a>)</p>
+
+<p class="TermNum"><a name="term-document" id="term-document"></a>3.1.4&#xA0;<p class="Terms" style="text-align:left;">document</p></p>
+  
+  <p class="MsoNormal"><a name="_0a7df9a3-2e37-4884-8747-26dc28e4f038" id="_0a7df9a3-2e37-4884-8747-26dc28e4f038"></a>written output of a <i>standardization work item</i> (<a href="#term-std-work-item">Clause 3.1.1</a>)</p>
+
+<p class="TermNum"><a name="term-cc-deliverable" id="term-cc-deliverable"></a>3.1.5&#xA0;<p class="Terms" style="text-align:left;">CalConnect deliverable</p></p>
+  
+  <p class="MsoNormal"><a name="_a4619ecf-9587-4fde-8c5e-c54384713018" id="_a4619ecf-9587-4fde-8c5e-c54384713018"></a><i>document</i> (<a href="#term-document">Clause 3.1.4</a>) that could be a CalConnect Standard,
+Guide, Specification, Report</p>
+
+<p class="TermNum"><a name="term-iso-deliverable" id="term-iso-deliverable"></a>3.1.6&#xA0;<p class="Terms" style="text-align:left;">ISO TC deliverable</p></p><p class="MsoNormal"><a name="_18e9a21e-5fa8-41ba-b1af-28333bf857ab" id="_18e9a21e-5fa8-41ba-b1af-28333bf857ab"></a><i>document</i> (<a href="#term-document">Clause 3.1.4</a>) of an ISO TC as described in <a href="#ISODIR1">ISO/IEC Directives, Part 1</a></p>
+<div class="Note"><p class="Note">Note 1 to entry: According to <a href="#ISODIR1">ISO/IEC Directives, Part 1</a>, ISO TC deliverables include the following types: International Standards, Technical Specifications, Publicly Available Specifications and Technical Reports.</p></div>
+<p class="TermNum"><a name="term-cc-tc" id="term-cc-tc"></a>3.1.7&#xA0;<p class="Terms" style="text-align:left;">CalConnect technical committee</p></p>
+  <p class="AltTerms" style="text-align:left;">CalConnect TC</p>
+
+<p class="MsoNormal"><a name="_6736a333-aa1d-4bf5-be56-986fe0e87719" id="_6736a333-aa1d-4bf5-be56-986fe0e87719"></a>internal committee of CalConnect tasked with a scope of work it
+is responsible for</p>
+<p class="TermNum"><a name="term-document-stage" id="term-document-stage"></a>3.1.8&#xA0;<p class="Terms" style="text-align:left;">document stage</p></p>
+  
+  <p class="MsoNormal"><a name="_5bffdc80-8dff-47dc-993f-65bea340dadb" id="_5bffdc80-8dff-47dc-993f-65bea340dadb"></a>stage of <i>document</i> (<a href="#term-document">Clause 3.1.4</a>) as specified in the CalConnect stages (as defined in <a href="#CCSTD">CC/DIR 10001</a>)</p>
+
+<p class="TermNum"><a name="term-std-project-output" id="term-std-project-output"></a>3.1.9&#xA0;<p class="Terms" style="text-align:left;">standardization project output</p></p><p class="MsoNormal"><a name="_2be690fc-3449-4cf1-9c1d-237b8f564f9e" id="_2be690fc-3449-4cf1-9c1d-237b8f564f9e"></a>output of a <i>standardization project</i> (<a href="#term-std-project">Clause 3.1.2</a>)</p>
+<div class="Note"><p class="Note">Note 1 to entry: In this document, this explicitly means any documents and IP rights
+produced by the standardization project.</p></div>
+<p class="TermNum"><a name="term-sdo" id="term-sdo"></a>3.1.10&#xA0;<p class="Terms" style="text-align:left;">standardization body</p></p><p class="AltTerms" style="text-align:left;">standards-developing organization</p>
+<p class="AltTerms" style="text-align:left;">SDO</p>
+<p class="MsoNormal"><a name="_cbd5fa49-6130-4f69-bf8c-9beb93a0d071" id="_cbd5fa49-6130-4f69-bf8c-9beb93a0d071"></a>entity that publishes <i>standardization work items</i> (<a href="#term-std-work-item">Clause 3.1.1</a>)</p>
+<p class="TermNum"><a name="term-std-proposal" id="term-std-proposal"></a>3.1.11&#xA0;<p class="Terms" style="text-align:left;">proposal for standardization</p></p>
+  
+  <p class="MsoNormal"><a name="_0b18ac8c-a131-447f-b4a7-f1e93d57fe74" id="_0b18ac8c-a131-447f-b4a7-f1e93d57fe74"></a>proposal for a new <i>work item</i> (<a href="#term-std-work-item">Clause 3.1.1</a>) for standardization</p>
+
+<p class="TermNum"><a name="term-co-develop" id="term-co-develop"></a>3.1.12&#xA0;<p class="Terms" style="text-align:left;">co-develop</p></p>
+  <p class="AltTerms" style="text-align:left;">collaborative development</p>
+
+<p class="MsoNormal"><a name="_b47cc605-5288-4d71-9a03-02614d76fc4f" id="_b47cc605-5288-4d71-9a03-02614d76fc4f"></a>act of developing a <i>standardization work item</i> (<a href="#term-std-work-item">Clause 3.1.1</a>) by multiple parties from the proposal
+<i>document stage</i> (<a href="#term-document-stage">Clause 3.1.8</a>)</p>
+<p class="TermNum"><a name="term-co-publish" id="term-co-publish"></a>3.1.13&#xA0;<p class="Terms" style="text-align:left;">co-publish</p></p>
+  <p class="AltTerms" style="text-align:left;">collaborative publishing</p>
+
+<p class="MsoNormal"><a name="_47e47230-7b61-4f64-bd51-5425edad32f8" id="_47e47230-7b61-4f64-bd51-5425edad32f8"></a>act of publishing <i>documents</i> (<a href="#term-document">Clause 3.1.4</a>) of identical content
+by multiple parties</p>
+<p class="TermNum"><a name="_joint_work_item" id="_joint_work_item"></a>3.1.14&#xA0;<p class="Terms" style="text-align:left;">joint work item</p></p>
+  
+  <p class="MsoNormal"><a name="_9297ef69-e5c0-44b1-bc5a-9977bce37367" id="_9297ef69-e5c0-44b1-bc5a-9977bce37367"></a><i>standarization work item</i> (<a href="#term-std-work-item">Clause 3.1.1</a>) <i>co-developed</i> (<a href="#term-co-develop">Clause 3.1.12</a>) by both parties</p>
+
+<p class="TermNum"><a name="_joint_publication" id="_joint_publication"></a>3.1.15&#xA0;<p class="Terms" style="text-align:left;">joint publication</p></p><p class="MsoNormal"><a name="_d4f141cd-64f6-4571-8a69-8fb9e0363530" id="_d4f141cd-64f6-4571-8a69-8fb9e0363530"></a>publication that is <i>co-published</i> (<a href="#term-co-publish">Clause 3.1.13</a>) by CalConnect with
+an external <i>standardization body</i> (<a href="#term-sdo">Clause 3.1.10</a>)</p>
+<div class="Note"><p class="Note">Note 1 to entry: Both parties may jointly hold copyright of the joint publication.</p></div>
+<p class="TermNum"><a name="term-jcg" id="term-jcg"></a>3.1.16&#xA0;<p class="Terms" style="text-align:left;">Joint Coordination Group</p></p>
+  <p class="AltTerms" style="text-align:left;">JCG</p>
+
+<p class="MsoNormal"><a name="_e24a09a4-6459-45f7-ac48-3f0118bdd0cd" id="_e24a09a4-6459-45f7-ac48-3f0118bdd0cd"></a>advisory group with representatives from CalConnect and an external
+<i>standardization body</i> (<a href="#term-sdo">Clause 3.1.10</a>) on the execution and maintenance of a
+<i>co-publishing</i> (<a href="#term-co-publish">Clause 3.1.13</a>) agreement</p>
+<p class="TermNum"><a name="term-doc-register" id="term-doc-register"></a>3.1.17&#xA0;<p class="Terms" style="text-align:left;">co-development document register</p></p>
+  
+  <p class="MsoNormal"><a name="_f851fe25-68f0-4b62-b5cc-c28803d3bbfd" id="_f851fe25-68f0-4b62-b5cc-c28803d3bbfd"></a>document register of a list of <i>co-developed</i> (<a href="#term-co-develop">Clause 3.1.12</a>)
+<i>documents</i> (<a href="#term-document">Clause 3.1.4</a>) developed under this agreement,
+held by the corresponding <i>Joint Coordination Group</i> (<a href="#term-jcg">Clause 3.1.16</a>)</p>
+</div><div><a name="_abbreviations" id="_abbreviations"></a><h2>3.2. Symbols and abbreviated terms</h2>
+  <table class="dl"><tr><td valign="top" align="left"><p align="left" style="margin-left:0pt;text-align:left;" class="MsoNormal">IPR</p></td><td valign="top">
+    <p class="MsoNormal"><a name="_87f830c9-ff5d-4d7a-9d0f-cb1c7ebc9908" id="_87f830c9-ff5d-4d7a-9d0f-cb1c7ebc9908"></a>Intellectual Property Rights</p>
+  </td></tr><tr><td valign="top" align="left"><p align="left" style="margin-left:0pt;text-align:left;" class="MsoNormal">TCC</p></td><td valign="top">
+    <p class="MsoNormal"><a name="_f966f41b-3ac4-411e-a4d5-c99860493a5c" id="_f966f41b-3ac4-411e-a4d5-c99860493a5c"></a>Technical Coordination Committee</p>
+  </td></tr></table>
+</div></div>
+      <div><a name="numbering" id="numbering"></a>
+        <h1>4.<span style="mso-tab-count:1">&#xA0; </span>Project/document identifier</h1>
+        <div><a name="_general" id="_general"></a><h2>4.1. General</h2>
+
+  <p class="MsoNormal"><a name="_0eeca86b-d4ac-4463-a44a-57b69e5e456c" id="_0eeca86b-d4ac-4463-a44a-57b69e5e456c"></a>CalConnect implements a numbering system for projects/documents.</p>
+</div>
+        <div><a name="_project_index" id="_project_index"></a><h2>4.2. Project index</h2>
+
+  <p class="MsoNormal"><a name="_fb7b693e-25e7-4fff-b6d2-d2cfc10b9713" id="_fb7b693e-25e7-4fff-b6d2-d2cfc10b9713"></a>A project/document index shall be maintained on the CalConnect
+website with documents listed by number, name, and type.</p>
+</div>
+        <div><a name="project-code" id="project-code"></a><h2>4.3. Project code</h2>
+
+  
+  <p style="mso-list:l2 level1 lfo1;" class="MsoListParagraphCxSpFirst">
+    The project code shall be of the form <tt>[n]</tt>, where <tt>[n]</tt> is any
+selected positive integer of less than 5 digits.
+  </p>
+  <p style="mso-list:l2 level1 lfo1;" class="MsoListParagraphCxSpMiddle">
+    The numbering system applies across all project types.
+Different project types shall not share an identical project code.
+  </p>
+  <p style="mso-list:l2 level1 lfo1;" class="MsoListParagraphCxSpMiddle">
+    The project code shall be assigned on proposal acceptance
+of the project.
+  </p>
+  <p style="mso-list:l2 level1 lfo1;" class="MsoListParagraphCxSpLast">
+    Co-published documents shall attempt to use an identical project
+code in both CalConnect and at the collaborative publisher to prevent
+potential ambiguity, if possible.
+  </p>
+
+</div>
+        <div><a name="_document_identifier" id="_document_identifier"></a><h2>4.4. Document identifier</h2><div><a name="_representation" id="_representation"></a><h3>4.4.1. Representation</h3><p class="MsoNormal"><a name="_bea08498-683b-4d64-bba6-cadce5a4d899" id="_bea08498-683b-4d64-bba6-cadce5a4d899"></a>The document identifier takes the form of <tt>[type][stage] [code][:][y]</tt>, where:</p>
+
+  <p style="mso-list:l3 level1 lfo4;" class="MsoListParagraphCxSpFirst">
+    <tt>[type]</tt> is the document identifier prefix;
+  </p>
+  <p style="mso-list:l3 level1 lfo4;" class="MsoListParagraphCxSpMiddle">
+    <tt>[stage]</tt> is the document stage;
+  </p>
+  <p style="mso-list:l3 level1 lfo4;" class="MsoListParagraphCxSpMiddle">
+    <tt>[code]</tt> is the project code of the project that created the document; and
+  </p>
+  <p style="mso-list:l3 level1 lfo4;" class="MsoListParagraphCxSpLast">
+    <tt>[y]</tt> is the 4-digit edition year.
+  </p>
+</div>
+<div><a name="_edition_year" id="_edition_year"></a><h3>4.4.2. Edition year</h3>
+
+  <p class="MsoNormal"><a name="_3aaf20a9-bc6a-4e92-a067-9391a68a29ce" id="_3aaf20a9-bc6a-4e92-a067-9391a68a29ce"></a>The edition year is the calendar year in which the document is published.
+On updates, a document will retain the same project code but may be
+assigned a different edition year in which the update is published.</p>
+</div>
+<div><a name="_co_publishing" id="_co_publishing"></a><h3>4.4.3. Co-publishing</h3><p class="MsoNormal"><a name="_5f0eeba2-9f80-4b15-a419-ed0c8ff9bae8" id="_5f0eeba2-9f80-4b15-a419-ed0c8ff9bae8"></a>Co-published documents shall incorporate codes from all collaborative
+publishing parties in the document identifier, joined together via a
+"solidus" sign ("<tt>/</tt>").</p>
+<table class="example" cellspacing="0" cellpadding="0" style="border-collapse:collapse"><a name="_188a67c0-8e56-464c-8ec7-264596ef9487" id="_188a67c0-8e56-464c-8ec7-264596ef9487"></a><tr><td valign="top" class="example_label" style="width:82.8pt;padding:0 0 0 1em;margin-left:0pt">EXAMPLE</td><td valign="top" class="example">
+  <p class="example"><a name="_8856e877-ce02-46ad-948f-84425eb3f752" id="_8856e877-ce02-46ad-948f-84425eb3f752"></a>CalConnect deliverables co-published with ISO are referenced as as "CC/ISO",
+with IETF as "CC/IETF".</p>
+</td></tr></table></div>
+<div><a name="document-type" id="document-type"></a><h3>4.4.4. Document types</h3><p class="MsoNormal"><a name="_82ab6c63-6b05-4a90-bf1e-5ce1e3febf17" id="_82ab6c63-6b05-4a90-bf1e-5ce1e3febf17"></a>Document types shall be represented in the "type" as follows:</p>
+
+  <p style="mso-list:l2 level1 lfo2;" class="MsoListParagraphCxSpFirst">
+    Standard, "CC"
+  </p>
+  <p style="mso-list:l2 level1 lfo2;" class="MsoListParagraphCxSpMiddle">
+    Directive, "CC/DIR"
+  </p>
+  <p style="mso-list:l2 level1 lfo2;" class="MsoListParagraphCxSpMiddle">
+    Guide, "CC/Guide"
+  </p>
+  <p style="mso-list:l2 level1 lfo2;" class="MsoListParagraphCxSpMiddle">
+    Specification, "CC/S"
+  </p>
+  <p style="mso-list:l2 level1 lfo2;" class="MsoListParagraphCxSpMiddle">
+    Report, "CC/R"
+  </p>
+  <p style="mso-list:l2 level1 lfo2;" class="MsoListParagraphCxSpMiddle">
+    Amendment, "CC/Amd"
+  </p>
+  <p style="mso-list:l2 level1 lfo2;" class="MsoListParagraphCxSpMiddle">
+    Technical corrigendum, "CC/Cor"
+  </p>
+  <p style="mso-list:l2 level1 lfo2;" class="MsoListParagraphCxSpLast">
+    Administrative, "CC/A"
+  </p>
+
+<table class="example" cellspacing="0" cellpadding="0" style="border-collapse:collapse"><a name="_02e0e6f6-3c94-428f-9f86-117af3c47ece" id="_02e0e6f6-3c94-428f-9f86-117af3c47ece"></a><tr><td valign="top" class="example_label" style="width:82.8pt;padding:0 0 0 1em;margin-left:0pt">EXAMPLE</td><td valign="top" class="example">
+  <p class="example"><a name="_54987294-ee53-4277-ba4e-9cb5b5343e98" id="_54987294-ee53-4277-ba4e-9cb5b5343e98"></a>"CC/Guide/DS 38002:2018" is a CalConnect Guide at DS stage with
+project number 38002, published in 2018.</p>
+</td></tr></table></div>
+<div><a name="document-stage" id="document-stage"></a><h3>4.4.5. Document stages</h3><p class="MsoNormal"><a name="_f0680412-564d-4327-bd0e-54e8375948a2" id="_f0680412-564d-4327-bd0e-54e8375948a2"></a>Document stages shall be represented in the "stage" as follows:</p>
+
+  <p style="mso-list:l2 level1 lfo3;" class="MsoListParagraphCxSpFirst">
+    Published, "<tt> </tt>" (blank)
+  </p>
+  <p style="mso-list:l2 level1 lfo3;" class="MsoListParagraphCxSpMiddle">
+    Final draft standard, "<tt>/FDS</tt>"
+  </p>
+  <p style="mso-list:l2 level1 lfo3;" class="MsoListParagraphCxSpMiddle">
+    Draft standard, "<tt>/DS</tt>"
+  </p>
+  <p style="mso-list:l2 level1 lfo3;" class="MsoListParagraphCxSpMiddle">
+    Technical committee draft, "<tt>/CD</tt>"
+  </p>
+  <p style="mso-list:l2 level1 lfo3;" class="MsoListParagraphCxSpLast">
+    Project group draft / Working draft, "<tt>/WD</tt>"
+  </p>
+
+<table class="example" cellspacing="0" cellpadding="0" style="border-collapse:collapse"><a name="_4392711b-1c47-45d1-aebd-d0981071cf04" id="_4392711b-1c47-45d1-aebd-d0981071cf04"></a><tr><td valign="top" class="example_label" style="width:82.8pt;padding:0 0 0 1em;margin-left:0pt">EXAMPLE  1</td><td valign="top" class="example">
+  <p class="example"><a name="_6cbb8417-ecb8-4c4f-986d-8813ccb60779" id="_6cbb8417-ecb8-4c4f-986d-8813ccb60779"></a>"CC/FDS 10668:2018" is a CalConnect standard document at FDS stage
+with project number 10668, published in 2018.</p>
+</td></tr></table><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0.0pt;margin-bottom:.0001pt;line-height:1.0pt;mso-line-height-rule:exactly" class="MsoNormal"><span lang="EN-GB" style="display:none;mso-hide:all" xml:lang="EN-GB">&#xA0;</span></p>
+<table class="example" cellspacing="0" cellpadding="0" style="border-collapse:collapse"><a name="_e3324963-772c-407e-9490-4b62f307af3b" id="_e3324963-772c-407e-9490-4b62f307af3b"></a><tr><td valign="top" class="example_label" style="width:82.8pt;padding:0 0 0 1em;margin-left:0pt">EXAMPLE  2</td><td valign="top" class="example">
+  <p class="example"><a name="_b1ffbfa5-dea2-4090-96a1-6eb59bc19a73" id="_b1ffbfa5-dea2-4090-96a1-6eb59bc19a73"></a>"CC/Guide/DS 20080:2018" is a CalConnect guide at DS stage with
+project number 20080, published in 2018.</p>
+</td></tr></table>
+<div class="Note"><a name="_56776b15-8019-4568-8d71-369d839cd3b0" id="_56776b15-8019-4568-8d71-369d839cd3b0"></a><p class="Note"><span class="note_label">NOTE</span><span style="mso-tab-count:1">&#xA0; </span>Existing documents can be retrofitted to the scheme as practical.</p></div></div></div>
+      </div>
+      <div><a name="document-structure" id="document-structure"></a>
+        <h1>5.<span style="mso-tab-count:1">&#xA0; </span>Document structure</h1>
+        <div><a name="_general_2" id="_general_2"></a><h2>5.1. General</h2>
+
+  <p class="MsoNormal"><a name="_90e2a74f-703c-40cf-9260-017616bd445a" id="_90e2a74f-703c-40cf-9260-017616bd445a"></a>This section describes the document structure and element
+requirements of a CalConnect standard document.</p>
+</div>
+        <div><a name="_cover_page" id="_cover_page"></a><h2>5.2. Cover page</h2><p class="MsoNormal"><a name="_8291ca2c-8245-4552-ad35-ddefb9a6eb8e" id="_8291ca2c-8245-4552-ad35-ddefb9a6eb8e"></a>The cover page will contain:</p>
+
+  <p style="mso-list:l2 level1 lfo4;" class="MsoListParagraphCxSpFirst">
+    CalConnect logo
+  </p>
+  <p style="mso-list:l2 level1 lfo4;" class="MsoListParagraphCxSpMiddle">
+    Document number (<a href="#project-code">Clause 4.3</a>)
+  </p>
+  <p style="mso-list:l2 level1 lfo4;" class="MsoListParagraphCxSpMiddle">
+    Document type (<a href="#document-type">Clause 4.4.4</a>)
+  </p>
+  <p style="mso-list:l2 level1 lfo4;" class="MsoListParagraphCxSpMiddle">
+    Document title
+  </p>
+  <p style="mso-list:l2 level1 lfo4;" class="MsoListParagraphCxSpMiddle">
+    Document status (<a href="#document-stage">Clause 4.4.5</a>)
+  </p>
+  <p style="mso-list:l2 level1 lfo4;" class="MsoListParagraphCxSpMiddle">
+    Date of publication
+  </p>
+  <p style="mso-list:l2 level1 lfo4;" class="MsoListParagraphCxSpMiddle">
+    Responsible technical committee
+  </p>
+  <p style="mso-list:l2 level1 lfo4;" class="MsoListParagraphCxSpLast">
+    Incorporation by reference and hyperlink of the appropriate
+statements of Intellectual Property Rights, Appropriate Usage,
+Trademarks, and Disclaimer of Warranty
+  </p>
+
+<p class="MsoNormal"><a name="_e9327c3e-e240-46e0-a9a1-300c1fcfd7ff" id="_e9327c3e-e240-46e0-a9a1-300c1fcfd7ff"></a>In co-published deliverables, as well as any further adoptions,
+the document shall retain the logographic marks of the
+publishing organizations.</p></div>
+        <div><a name="_draft_warning" id="_draft_warning"></a><h2>5.3. Draft warning</h2><p class="MsoNormal"><a name="_1d677048-7b42-4a49-aeb4-159888c9207d" id="_1d677048-7b42-4a49-aeb4-159888c9207d"></a>This warning must be shown on the cover page for all draft documents.</p>
+<div class="Quote"><a name="_3aa7756d-e886-4940-99d7-1fb6d963210a" id="_3aa7756d-e886-4940-99d7-1fb6d963210a"></a><p class="MsoNormal"><a name="_3de708d6-a27c-489a-9935-31e0729c7ebb" id="_3de708d6-a27c-489a-9935-31e0729c7ebb"></a>WARNING FOR DRAFTS</p>
+<p class="MsoNormal"><a name="_f19df935-d224-4871-946b-f072997940e5" id="_f19df935-d224-4871-946b-f072997940e5"></a>This document is not a CalConnect Standard. It is distributed for review and comment, and is subject to change without notice and may not be referred to as a Standard. Recipients of this draft are invited to submit, with their comments, notification of any relevant patent rights of which they are aware and to provide supporting documentation.</p><p class="QuoteAttribution"></p></div></div>
+        <div><a name="_public_review_note" id="_public_review_note"></a><h2>5.4. Public review note</h2><p class="MsoNormal"><a name="_4b70b8ce-5ea3-44e6-98af-81001e780cd4" id="_4b70b8ce-5ea3-44e6-98af-81001e780cd4"></a>Certain CalConnect documents are intended for public review, as
+specified in <a href="#CCSTD">CC/DIR 10001</a>.</p>
+<p class="MsoNormal"><a name="_0c86de2d-1d20-4bd9-865a-f01c4d0d7f0e" id="_0c86de2d-1d20-4bd9-865a-f01c4d0d7f0e"></a>The following note must be shown on the cover page for all documents
+intended for public review.</p>
+<div class="Quote"><a name="_899c733e-315d-4ea2-8736-5c9d10a0c389" id="_899c733e-315d-4ea2-8736-5c9d10a0c389"></a><p class="MsoNormal"><a name="_789b81eb-1296-41b2-b3b3-f13fda1dc793" id="_789b81eb-1296-41b2-b3b3-f13fda1dc793"></a>INSTRUCTIONS FOR REVIEW</p>
+<p class="MsoNormal"><a name="_f4cae723-f428-4874-b4e4-f76efd84a3e3" id="_f4cae723-f428-4874-b4e4-f76efd84a3e3"></a>This draft is intended for public review. Comments shall be submitted to &#x2026;&#x200B;</p><p class="QuoteAttribution"></p></div></div>
+        <div><a name="_technical_committee" id="_technical_committee"></a><h2>5.5. Technical committee</h2>
+
+  <p class="MsoNormal"><a name="_7a6eaed5-a3d5-4e27-a0a9-a15416603fa2" id="_7a6eaed5-a3d5-4e27-a0a9-a15416603fa2"></a>The responsible technical committee shall be shown on the cover page.</p>
+</div>
+        <div><a name="_contributor_acknowledgement" id="_contributor_acknowledgement"></a><h2>5.6. Contributor acknowledgement</h2>
+
+  <p class="MsoNormal"><a name="_d8eb1f11-2793-4fbc-9827-0581cb6462ee" id="_d8eb1f11-2793-4fbc-9827-0581cb6462ee"></a>Contributors to the document, including editors, authors, and the project owner
+(a CalConnect TC) as well as other contributing parties, shall be provided if
+appropriate within the Foreword.</p>
+</div>
+        <div><a name="_table_of_contents" id="_table_of_contents"></a><h2>5.7. Table of contents</h2><p class="MsoNormal"><a name="_64cba6f4-b521-4b6e-a3ba-c3b58dabb33d" id="_64cba6f4-b521-4b6e-a3ba-c3b58dabb33d"></a>A table of contents shall be provided in any user consumable
+format, including HTML, PDF and Word.</p>
+<p class="MsoNormal"><a name="_f9e7baeb-b8a1-4661-953a-b4840a20168a" id="_f9e7baeb-b8a1-4661-953a-b4840a20168a"></a>This does not apply to standard definition files (CSD XML)
+intended for machine consumption.</p>
+<p class="MsoNormal"><a name="_5fa8c0dc-5575-4f9c-9d74-1830f79ed3c6" id="_5fa8c0dc-5575-4f9c-9d74-1830f79ed3c6"></a>The table of contents may be omitted if the document is
+to be provided on paper medium with less than five (5) pages.</p></div>
+        <div><a name="_sections_and_subsections" id="_sections_and_subsections"></a><h2>5.8. Sections and subsections</h2>
+
+  <p class="MsoNormal"><a name="_81cdcd54-ec40-45e2-9da6-acfbbb67c530" id="_81cdcd54-ec40-45e2-9da6-acfbbb67c530"></a>The body of the document shall have section and subsection identifiers
+to make it easy to refer clearly to specific items in the document.</p>
+</div>
+        <div><a name="_referable_document_elements" id="_referable_document_elements"></a><h2>5.9. Referable document elements</h2><p class="MsoNormal"><a name="_8792bfa7-a295-4867-8e0a-7d39732998de" id="_8792bfa7-a295-4867-8e0a-7d39732998de"></a>Document elements including numbered list items, examples, and notes shall be numbered
+uniquely within a clause.
+Such elements shall be cited within the document by their number and containing clause.</p>
+<table class="example" cellspacing="0" cellpadding="0" style="border-collapse:collapse"><a name="_b571f604-ce9f-42f7-a032-2326c55a9859" id="_b571f604-ce9f-42f7-a032-2326c55a9859"></a><tr><td valign="top" class="example_label" style="width:82.8pt;padding:0 0 0 1em;margin-left:0pt">EXAMPLE  1</td><td valign="top" class="example">
+  <p class="example"><a name="_8fbad260-6998-43d7-8923-a601fb6dda35" id="_8fbad260-6998-43d7-8923-a601fb6dda35"></a>"Clause 3 a)"</p>
+</td></tr></table><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0.0pt;margin-bottom:.0001pt;line-height:1.0pt;mso-line-height-rule:exactly" class="MsoNormal"><span lang="EN-GB" style="display:none;mso-hide:all" xml:lang="EN-GB">&#xA0;</span></p>
+<table class="example" cellspacing="0" cellpadding="0" style="border-collapse:collapse"><a name="_c301caa3-d09e-45fa-8b7f-98a7130e5d91" id="_c301caa3-d09e-45fa-8b7f-98a7130e5d91"></a><tr><td valign="top" class="example_label" style="width:82.8pt;padding:0 0 0 1em;margin-left:0pt">EXAMPLE  2</td><td valign="top" class="example">
+  <p class="example"><a name="_d20d3c3b-be4a-4eba-8a54-0a4ca236eeb4" id="_d20d3c3b-be4a-4eba-8a54-0a4ca236eeb4"></a>"6.3.3 a)"</p>
+</td></tr></table><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0.0pt;margin-bottom:.0001pt;line-height:1.0pt;mso-line-height-rule:exactly" class="MsoNormal"><span lang="EN-GB" style="display:none;mso-hide:all" xml:lang="EN-GB">&#xA0;</span></p>
+<table class="example" cellspacing="0" cellpadding="0" style="border-collapse:collapse"><a name="_ebd48c50-b66f-4ee9-938a-4dac097dacd3" id="_ebd48c50-b66f-4ee9-938a-4dac097dacd3"></a><tr><td valign="top" class="example_label" style="width:82.8pt;padding:0 0 0 1em;margin-left:0pt">EXAMPLE  3</td><td valign="top" class="example">
+  <p class="example"><a name="_3956c344-300e-42da-ac8a-d34811a87466" id="_3956c344-300e-42da-ac8a-d34811a87466"></a>"8.2 Note 3"</p>
+</td></tr></table><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0.0pt;margin-bottom:.0001pt;line-height:1.0pt;mso-line-height-rule:exactly" class="MsoNormal"><span lang="EN-GB" style="display:none;mso-hide:all" xml:lang="EN-GB">&#xA0;</span></p>
+<table class="example" cellspacing="0" cellpadding="0" style="border-collapse:collapse"><a name="_ee9dffab-7ff2-40cd-b72d-4ea297851675" id="_ee9dffab-7ff2-40cd-b72d-4ea297851675"></a><tr><td valign="top" class="example_label" style="width:82.8pt;padding:0 0 0 1em;margin-left:0pt">EXAMPLE  4</td><td valign="top" class="example">
+  <p class="example"><a name="_8c2cd9ec-ffb7-43a4-9a0d-818bde03c11a" id="_8c2cd9ec-ffb7-43a4-9a0d-818bde03c11a"></a>"2.6 Example 9"</p>
+</td></tr></table>
+<p class="MsoNormal"><a name="_3eb8c6f9-3d1c-413a-bd79-707dcc6311d5" id="_3eb8c6f9-3d1c-413a-bd79-707dcc6311d5"></a>Tables, figures, formulas shall be numbered uniquely within
+the document.
+Such elements shall be cited within the document by their type and number.</p>
+<table class="example" cellspacing="0" cellpadding="0" style="border-collapse:collapse"><a name="_e88696ab-bdd2-4888-bce7-64df66949687" id="_e88696ab-bdd2-4888-bce7-64df66949687"></a><tr><td valign="top" class="example_label" style="width:82.8pt;padding:0 0 0 1em;margin-left:0pt">EXAMPLE  5</td><td valign="top" class="example">
+  <p class="example"><a name="_0658e176-096a-4349-a92d-0b3d082b649c" id="_0658e176-096a-4349-a92d-0b3d082b649c"></a>"Table 2"</p>
+</td></tr></table><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0.0pt;margin-bottom:.0001pt;line-height:1.0pt;mso-line-height-rule:exactly" class="MsoNormal"><span lang="EN-GB" style="display:none;mso-hide:all" xml:lang="EN-GB">&#xA0;</span></p>
+<table class="example" cellspacing="0" cellpadding="0" style="border-collapse:collapse"><a name="_cda9e964-d728-438d-a472-940fd688cb75" id="_cda9e964-d728-438d-a472-940fd688cb75"></a><tr><td valign="top" class="example_label" style="width:82.8pt;padding:0 0 0 1em;margin-left:0pt">EXAMPLE  6</td><td valign="top" class="example">
+  <p class="example"><a name="_6a40196a-44d4-4dcf-b0f4-331afe57ea66" id="_6a40196a-44d4-4dcf-b0f4-331afe57ea66"></a>"Figure 5"</p>
+</td></tr></table><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0.0pt;margin-bottom:.0001pt;line-height:1.0pt;mso-line-height-rule:exactly" class="MsoNormal"><span lang="EN-GB" style="display:none;mso-hide:all" xml:lang="EN-GB">&#xA0;</span></p>
+<table class="example" cellspacing="0" cellpadding="0" style="border-collapse:collapse"><a name="_aa6085ca-2318-4ffb-9dd7-53d5e2f75dac" id="_aa6085ca-2318-4ffb-9dd7-53d5e2f75dac"></a><tr><td valign="top" class="example_label" style="width:82.8pt;padding:0 0 0 1em;margin-left:0pt">EXAMPLE  7</td><td valign="top" class="example">
+  <p class="example"><a name="_42b04e9f-f8f4-4b1a-adcd-aed735d1b34f" id="_42b04e9f-f8f4-4b1a-adcd-aed735d1b34f"></a>"Formula 12"</p>
+</td></tr></table></div>
+        <div><a name="spec-foreword" id="spec-foreword"></a><h2>5.10. Foreword</h2><p class="MsoNormal"><a name="_5e68c05e-0538-4de8-a411-f07959cbb86f" id="_5e68c05e-0538-4de8-a411-f07959cbb86f"></a>The foreword shall be the first section of the document, unnumbered.
+It is a mandatory section.</p>
+<p class="MsoNormal"><a name="_39406868-09cd-465e-a2cb-60a3eeabdacd" id="_39406868-09cd-465e-a2cb-60a3eeabdacd"></a>The foreword shall contain a description of the CalConnect organization
+and provide the necessary copyright and trademark statements.</p>
+<p class="MsoNormal"><a name="_2cc1d72a-17b2-46d2-8950-c163b355cbe1" id="_2cc1d72a-17b2-46d2-8950-c163b355cbe1"></a>It is also the place to provide acknowledgements to contributors.</p>
+<p class="MsoNormal"><a name="_8c6a76e6-d1ff-44e8-843e-44204b1c0e9e" id="_8c6a76e6-d1ff-44e8-843e-44204b1c0e9e"></a>In a revised CalConnect standard, the foreword shall also describe
+a summary of changes from the previous edition.</p></div>
+        <div><a name="_introduction_2" id="_introduction_2"></a><h2>5.11. Introduction</h2><p class="MsoNormal"><a name="_3bce7d86-ac9f-48a5-a4a0-42036fdcdaa8" id="_3bce7d86-ac9f-48a5-a4a0-42036fdcdaa8"></a>The introduction shall be the second section of the document, unnumbered.
+It is a mandatory section.</p>
+<p class="MsoNormal"><a name="_8adc3548-7784-468a-8b02-26aef606764b" id="_8adc3548-7784-468a-8b02-26aef606764b"></a>It shall describe the purpose and intent of the document, as well as
+potential use cases. The document&#x2019;s relationship with existing CalConnect
+or external standards, if appropriate to be explained,
+shall also be described here.</p></div>
+        <div><a name="_scope_2" id="_scope_2"></a><h2>5.12. Scope</h2>
+
+  <p class="MsoNormal"><a name="_8a4b2b28-fed4-4151-b26d-58878a199601" id="_8a4b2b28-fed4-4151-b26d-58878a199601"></a>The scope shall always be provided as Section 1.</p>
+</div>
+        <div><a name="_normative_and_informative_references" id="_normative_and_informative_references"></a><h2>5.13. Normative and informative references</h2><p class="MsoNormal"><a name="_5e606514-1626-4754-8495-c34c557dd137" id="_5e606514-1626-4754-8495-c34c557dd137"></a>The section for normative references should be placed at Section 2 of the document.</p>
+<p class="MsoNormal"><a name="_a0a3b5fb-1260-42f3-8022-ff4cf2b0686b" id="_a0a3b5fb-1260-42f3-8022-ff4cf2b0686b"></a>Informative references shall be placed at the Bibliography section
+at the end of the document, unnumbered.</p>
+<p class="MsoNormal"><a name="_644fbfca-8308-47d4-9725-0bb0347b9280" id="_644fbfca-8308-47d4-9725-0bb0347b9280"></a>References in these sections shall be fully cited.</p></div>
+        <div><a name="spec-terms-definitions" id="spec-terms-definitions"></a><h2>5.14. Terms and definitions</h2>
+
+  <p class="MsoNormal"><a name="_fddcd5ef-7c77-4302-8cad-48cf469e62a7" id="_fddcd5ef-7c77-4302-8cad-48cf469e62a7"></a>The terms and definitions sections shall be placed beginning at Section 3.</p>
+</div>
+        <div><a name="_annexes_and_appendices" id="_annexes_and_appendices"></a><h2>5.15. Annexes and appendices</h2><p class="MsoNormal"><a name="_c939be3f-662d-4ccb-8e54-1f37fd18a0b6" id="_c939be3f-662d-4ccb-8e54-1f37fd18a0b6"></a>Annexes are numbered sections provided after the main body text.
+An annex may be considered informative or normative.</p>
+<p class="MsoNormal"><a name="_09afc79b-112c-474e-8867-24192c85e12c" id="_09afc79b-112c-474e-8867-24192c85e12c"></a>Each annex is given a clause identifier of capital Latin letters starting from
+the A to Z (English order).
+The first annex shall be stated as (and referred to) "Annex A",
+the second "Annex B", and so forth.</p>
+<p class="MsoNormal"><a name="_a0cd1217-15ad-4ef9-b586-6df958819075" id="_a0cd1217-15ad-4ef9-b586-6df958819075"></a>Clauses within annexes shall start with the annex identifier, for example,
+the first subclause in Annex A is "A.1".</p>
+<p class="MsoNormal"><a name="_c72c5977-9a7b-4927-8aed-90dfff40a0f6" id="_c72c5977-9a7b-4927-8aed-90dfff40a0f6"></a>Appendixes are "annexes of annexes", and are given a clause identifier
+that incorporate the annex it belongs to, followed by a capital Latin
+letter starting from A to Z (English order).</p>
+<p class="MsoNormal"><a name="_a2aa3211-82ee-4946-8282-3caa129c1158" id="_a2aa3211-82ee-4946-8282-3caa129c1158"></a>For example, the first appendix of Annex A will be "Appendix AA",
+the second appendix of Annex C will be "Annex CB".</p>
+<p class="MsoNormal"><a name="_04c6c920-f050-4cc8-9b85-7ad0d31d0bb6" id="_04c6c920-f050-4cc8-9b85-7ad0d31d0bb6"></a>Clauses within appendix shall start with the appendix identifier, for example,
+the first subclause in Annex SA is "SA.1".</p></div>
+        <div><a name="_change_summary" id="_change_summary"></a><h2>5.16. Change summary</h2>
+
+  <p class="MsoNormal"><a name="_ce48e087-5c9a-4562-9f76-4628a2c9315c" id="_ce48e087-5c9a-4562-9f76-4628a2c9315c"></a>Changes to a document from a previous edition shall be described
+in summarized, bullet-point form at the end of the Foreword (<a href="#spec-foreword">Clause 5.10</a>).</p>
+</div>
+        <div><a name="_page_numbers" id="_page_numbers"></a><h2>5.17. Page numbers</h2><p class="MsoNormal"><a name="_68337981-0271-41b1-96c7-a645757e6b93" id="_68337981-0271-41b1-96c7-a645757e6b93"></a>For documents rendered on paper medium for user consumption,
+page numbers shall be provided on all pages.</p>
+<p class="MsoNormal"><a name="_e61d355d-cae4-4277-92d5-a1d27cd33375" id="_e61d355d-cae4-4277-92d5-a1d27cd33375"></a>Page numbers shall use Roman numbers of unnumbered initial sections,
+and Arabic numerals for the main body of text (including appendices).</p></div>
+        <div><a name="_trademark_and_copyright_statement" id="_trademark_and_copyright_statement"></a><h2>5.18. Trademark and copyright statement</h2><p class="MsoNormal"><a name="_3125f8e2-e247-45c2-8901-1f3a98cc58db" id="_3125f8e2-e247-45c2-8901-1f3a98cc58db"></a>A trademark and copyright statement of the form shown below must
+appear on the cover page and the foreword.</p>
+<p class="MsoNormal"><a name="_58414703-6aa8-4ce5-87f4-865f14b28a67" id="_58414703-6aa8-4ce5-87f4-865f14b28a67"></a>Note that "<tt>yyyy</tt>" is the 4-digit year, such as "<tt>2009</tt>".</p>
+<div class="Quote"><a name="_3c077c08-8402-4335-a244-44d2848e59d8" id="_3c077c08-8402-4335-a244-44d2848e59d8"></a><p class="MsoNormal"><a name="_437ada64-106b-4419-b4c9-bbdc2f6039a8" id="_437ada64-106b-4419-b4c9-bbdc2f6039a8"></a>(c) yyyy The Calendaring and Scheduling Consortium, Inc.</p>
+<p class="MsoNormal"><a name="_1a80ba9c-a2f8-4859-a433-3aabf21ce9b6" id="_1a80ba9c-a2f8-4859-a433-3aabf21ce9b6"></a>All rights reserved. Unless otherwise specified, no part of this publication may be reproduced or utilized otherwise in any form or by any means, electronic or mechanical, including photocopying, or posting on the internet or an intranet, without prior written permission. Permission can be requested from the address below.</p><p class="QuoteAttribution"></p></div></div>
+        <div><a name="_draft_documents" id="_draft_documents"></a><h2>5.19. Draft documents</h2>
+
+  <p class="MsoNormal"><a name="_59810700-7767-4124-b1fc-cf330e8f8dbc" id="_59810700-7767-4124-b1fc-cf330e8f8dbc"></a>Draft documents should clearly indicate on the title page and
+every page of the document that they are a draft document.</p>
+</div>
+        <div><a name="_canonical_representation" id="_canonical_representation"></a><h2>5.20. Canonical representation</h2><p class="MsoNormal"><a name="_6e08e237-564f-40ab-8b45-528d40093970" id="_6e08e237-564f-40ab-8b45-528d40093970"></a>A CalConnect document shall be digitally represented in canonical form
+using the CSD XML (CalConnect Standard Document XML) syntax, in accordance
+with its defined grammar. This allows the CalConnect document to be
+digitally rendered into any kind of supported format, including HTML,
+PDF and Word.</p>
+<p class="MsoNormal"><a name="_5ddd8b1d-1feb-4261-9e52-be16633d87ec" id="_5ddd8b1d-1feb-4261-9e52-be16633d87ec"></a>CSD XML is an adopted form of Metanorma XML of the Metanorma
+standard document model.</p></div>
+      </div>
+      <br clear="all" style="mso-special-character:line-break;page-break-before:always"/>
+      <div>
+        <h1 class="Section3">Bibliography</h1>
+        <p class="Biblio"><a name="WTOTBT" id="WTOTBT"></a>[1]<span style="mso-tab-count:1">&#xA0; </span>WTO Technical Barriers To Trade Agreements, World Trade Organization, <i>The WTO Agreements Series Technical Barriers to Trade</i></p>
+        <p class="Biblio"><a name="ISODIR1" id="ISODIR1"></a>[2]<span style="mso-tab-count:1">&#xA0; </span>ISO/IEC Directives, Part 1, ISO/IEC Directives, Part 1, Procedures for the technical work</p>
+        <p class="Biblio"><a name="ISODIR2" id="ISODIR2"></a>[3]<span style="mso-tab-count:1">&#xA0; </span>ISO/IEC Directives, Part 2, ISO/IEC Directives, Part 2, Principles and rules for the structure and drafting of ISO and IEC documents</p>
+        <p class="Biblio"><a name="ISODIR1C" id="ISODIR1C"></a>[4]<span style="mso-tab-count:1">&#xA0; </span>ISO/IEC Directives, Part 1, Consolidated ISO Supplement,
+    <i>ISO/IEC Directives, Part 1, Consolidated ISO Supplement, Procedures specific to ISO</i>
+  </p>
+      </div>
+    </div>
+  <div style="mso-element:footnote-list"/></body>
+</html>
+
+
+------=_NextPart_2d2b528e.1e2a.4e24
+Content-Location: file:///C:/Doc/csd-directive-document-requirements_files/filelist.xml
+Content-Transfer-Encoding: base64
+Content-Type: application/xml
+
+PHhtbCB4bWxuczpvPSJ1cm46c2NoZW1hcy1taWNyb3NvZnQtY29tOm9mZmljZTpvZmZpY2UiPgog
+ICAgICAgIDxvOk1haW5GaWxlIEhSZWY9Ii4uL2NzZC1kaXJlY3RpdmUtZG9jdW1lbnQtcmVxdWly
+ZW1lbnRzLmh0bSIvPiAgPG86RmlsZSBIUmVmPSJmaWxlbGlzdC54bWwiLz4KICA8bzpGaWxlIEhS
+ZWY9ImhlYWRlci5odG1sIi8+CjwveG1sPgo=
+
+------=_NextPart_2d2b528e.1e2a.4e24
+Content-Location: file:///C:/Doc/csd-directive-document-requirements_files/header.html
+Content-Transfer-Encoding: base64
+Content-Type: text/html charset="utf-8"
+
+PGh0bWwgeG1sbnM6dj0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTp2bWwiDQp4bWxuczpvPSJ1
+cm46c2NoZW1hcy1taWNyb3NvZnQtY29tOm9mZmljZTpvZmZpY2UiDQp4bWxuczp3PSJ1cm46c2No
+ZW1hcy1taWNyb3NvZnQtY29tOm9mZmljZTp3b3JkIg0KeG1sbnM6bT0iaHR0cDovL3NjaGVtYXMu
+bWljcm9zb2Z0LmNvbS9vZmZpY2UvMjAwNC8xMi9vbW1sIg0KeG1sbnM6bXY9Imh0dHA6Ly9tYWNW
+bWxTY2hlbWFVcmkiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy9UUi9SRUMtaHRtbDQwIj4NCg0K
+PGhlYWQ+DQo8bWV0YSBuYW1lPVRpdGxlIGNvbnRlbnQ9IiI+DQo8bWV0YSBuYW1lPUtleXdvcmRz
+IGNvbnRlbnQ9IiI+DQo8bWV0YSBodHRwLWVxdWl2PUNvbnRlbnQtVHlwZSBjb250ZW50PSJ0ZXh0
+L2h0bWw7IGNoYXJzZXQ9dXRmLTgiPg0KPG1ldGEgbmFtZT1Qcm9nSWQgY29udGVudD1Xb3JkLkRv
+Y3VtZW50Pg0KPG1ldGEgbmFtZT1HZW5lcmF0b3IgY29udGVudD0iTWljcm9zb2Z0IFdvcmQgMTUi
+Pg0KPG1ldGEgbmFtZT1PcmlnaW5hdG9yIGNvbnRlbnQ9Ik1pY3Jvc29mdCBXb3JkIDE1Ij4NCjxs
+aW5rIGlkPU1haW4tRmlsZSByZWw9TWFpbi1GaWxlIGhyZWY9Ii4uL2NzZC1kaXJlY3RpdmUtZG9j
+dW1lbnQtcmVxdWlyZW1lbnRzLmh0bWwiPg0KPCEtLVtpZiBndGUgbXNvIDldPjx4bWw+DQogPG86
+c2hhcGVkZWZhdWx0cyB2OmV4dD0iZWRpdCIgc3BpZG1heD0iMjA0OSIvPg0KPC94bWw+PCFbZW5k
+aWZdLS0+DQo8L2hlYWQ+DQoNCjxib2R5IGxhbmc9RU4gbGluaz1ibHVlIHZsaW5rPSIjOTU0Rjcy
+Ij4NCg0KPGRpdiBzdHlsZT0nbXNvLWVsZW1lbnQ6Zm9vdG5vdGUtc2VwYXJhdG9yJyBpZD1mcz4N
+Cg0KPHAgY2xhc3M9TXNvTm9ybWFsIHN0eWxlPSdtYXJnaW4tYm90dG9tOjBjbTttYXJnaW4tYm90
+dG9tOi4wMDAxcHQ7bGluZS1oZWlnaHQ6DQpub3JtYWwnPjxzcGFuIGxhbmc9RU4tR0I+PHNwYW4g
+c3R5bGU9J21zby1zcGVjaWFsLWNoYXJhY3Rlcjpmb290bm90ZS1zZXBhcmF0b3InPjwhW2lmICFz
+dXBwb3J0Rm9vdG5vdGVzXT4NCg0KPGhyIGFsaWduPWxlZnQgc2l6ZT0xIHdpZHRoPSIzMyUiPg0K
+DQo8IVtlbmRpZl0+PC9zcGFuPjwvc3Bhbj48L3A+DQoNCjwvZGl2Pg0KDQo8ZGl2IHN0eWxlPSdt
+c28tZWxlbWVudDpmb290bm90ZS1jb250aW51YXRpb24tc2VwYXJhdG9yJyBpZD1mY3M+DQoNCjxw
+IGNsYXNzPU1zb05vcm1hbCBzdHlsZT0nbWFyZ2luLWJvdHRvbTowY207bWFyZ2luLWJvdHRvbTou
+MDAwMXB0O2xpbmUtaGVpZ2h0Og0Kbm9ybWFsJz48c3BhbiBsYW5nPUVOLUdCPjxzcGFuIHN0eWxl
+PSdtc28tc3BlY2lhbC1jaGFyYWN0ZXI6Zm9vdG5vdGUtY29udGludWF0aW9uLXNlcGFyYXRvcic+
+PCFbaWYgIXN1cHBvcnRGb290bm90ZXNdPg0KDQo8aHIgYWxpZ249bGVmdCBzaXplPTE+DQoNCjwh
+W2VuZGlmXT48L3NwYW4+PC9zcGFuPjwvcD4NCg0KPC9kaXY+DQoNCjxkaXYgc3R5bGU9J21zby1l
+bGVtZW50OmVuZG5vdGUtc2VwYXJhdG9yJyBpZD1lcz4NCg0KPHAgY2xhc3M9TXNvTm9ybWFsIHN0
+eWxlPSdtYXJnaW4tYm90dG9tOjBjbTttYXJnaW4tYm90dG9tOi4wMDAxcHQ7bGluZS1oZWlnaHQ6
+DQpub3JtYWwnPjxzcGFuIGxhbmc9RU4tR0I+PHNwYW4gc3R5bGU9J21zby1zcGVjaWFsLWNoYXJh
+Y3Rlcjpmb290bm90ZS1zZXBhcmF0b3InPjwhW2lmICFzdXBwb3J0Rm9vdG5vdGVzXT4NCg0KPGhy
+IGFsaWduPWxlZnQgc2l6ZT0xIHdpZHRoPSIzMyUiPg0KDQo8IVtlbmRpZl0+PC9zcGFuPjwvc3Bh
+bj48L3A+DQoNCjwvZGl2Pg0KDQo8ZGl2IHN0eWxlPSdtc28tZWxlbWVudDplbmRub3RlLWNvbnRp
+bnVhdGlvbi1zZXBhcmF0b3InIGlkPWVjcz4NCg0KPHAgY2xhc3M9TXNvTm9ybWFsIHN0eWxlPSdt
+YXJnaW4tYm90dG9tOjBjbTttYXJnaW4tYm90dG9tOi4wMDAxcHQ7bGluZS1oZWlnaHQ6DQpub3Jt
+YWwnPjxzcGFuIGxhbmc9RU4tR0I+PHNwYW4gc3R5bGU9J21zby1zcGVjaWFsLWNoYXJhY3Rlcjpm
+b290bm90ZS1jb250aW51YXRpb24tc2VwYXJhdG9yJz48IVtpZiAhc3VwcG9ydEZvb3Rub3Rlc10+
+DQoNCjxociBhbGlnbj1sZWZ0IHNpemU9MT4NCg0KPCFbZW5kaWZdPjwvc3Bhbj48L3NwYW4+PC9w
+Pg0KDQo8L2Rpdj4NCg0KPGRpdiBzdHlsZT0nbXNvLWVsZW1lbnQ6aGVhZGVyJyBpZD1laDE+DQoN
+CjxwIGNsYXNzPU1zb0hlYWRlciBhbGlnbj1sZWZ0IHN0eWxlPSd0ZXh0LWFsaWduOmxlZnQ7bGlu
+ZS1oZWlnaHQ6MTIuMHB0Ow0KbXNvLWxpbmUtaGVpZ2h0LXJ1bGU6ZXhhY3RseSc+PHNwYW4gbGFu
+Zz1FTi1HQj5DQyZuYnNwO0NDL0RJUi9GRFMgMTAwMDI6MjAxODoyMDE4PC9zcGFuPjwvcD4NCg0K
+PC9kaXY+DQoNCjxkaXYgc3R5bGU9J21zby1lbGVtZW50OmhlYWRlcicgaWQ9aDE+DQoNCjxwIGNs
+YXNzPU1zb0hlYWRlciBzdHlsZT0nbWFyZ2luLWJvdHRvbToxOC4wcHQnPjxzcGFuIGxhbmc9RU4t
+R0INCnN0eWxlPSdmb250LXNpemU6MTAuMHB0O21zby1iaWRpLWZvbnQtc2l6ZToxMS4wcHQ7Zm9u
+dC13ZWlnaHQ6bm9ybWFsJz7CqQ0KVGhlIENhbGVuZGFyaW5nIGFuZCBTY2hlZHVsaW5nIENvbnNv
+cnRpdW0sIEluYy4mbmJzcDsyMDE4Jm5ic3A74oCTIEFsbCByaWdodHMgcmVzZXJ2ZWQ8L3NwYW4+
+PHNwYW4gbGFuZz1FTi1HQg0Kc3R5bGU9J2ZvbnQtd2VpZ2h0Om5vcm1hbCc+PG86cD48L286cD48
+L3NwYW4+PC9wPg0KDQo8L2Rpdj4NCg0KPGRpdiBzdHlsZT0nbXNvLWVsZW1lbnQ6Zm9vdGVyJyBp
+ZD1lZjE+DQoNCjxwIGNsYXNzPU1zb0Zvb3RlciBzdHlsZT0nbWFyZ2luLXRvcDoxMi4wcHQ7bGlu
+ZS1oZWlnaHQ6MTIuMHB0O21zby1saW5lLWhlaWdodC1ydWxlOg0KZXhhY3RseSc+PCEtLVtpZiBz
+dXBwb3J0RmllbGRzXT48YiBzdHlsZT0nbXNvLWJpZGktZm9udC13ZWlnaHQ6bm9ybWFsJz48c3Bh
+bg0KbGFuZz1FTi1HQiBzdHlsZT0nZm9udC1zaXplOjEwLjBwdDttc28tYmlkaS1mb250LXNpemU6
+MTEuMHB0Jz48c3Bhbg0Kc3R5bGU9J21zby1lbGVtZW50OmZpZWxkLWJlZ2luJz48L3NwYW4+PHNw
+YW4NCnN0eWxlPSdtc28tc3BhY2VydW46eWVzJz7CoDwvc3Bhbj5QQUdFPHNwYW4gc3R5bGU9J21z
+by1zcGFjZXJ1bjp5ZXMnPsKgwqANCjwvc3Bhbj5cKiBNRVJHRUZPUk1BVCA8c3BhbiBzdHlsZT0n
+bXNvLWVsZW1lbnQ6ZmllbGQtc2VwYXJhdG9yJz48L3NwYW4+PC9zcGFuPjwvYj48IVtlbmRpZl0t
+LT48Yg0Kc3R5bGU9J21zby1iaWRpLWZvbnQtd2VpZ2h0Om5vcm1hbCc+PHNwYW4gbGFuZz1FTi1H
+QiBzdHlsZT0nZm9udC1zaXplOjEwLjBwdDsNCm1zby1iaWRpLWZvbnQtc2l6ZToxMS4wcHQnPjxz
+cGFuIHN0eWxlPSdtc28tbm8tcHJvb2Y6eWVzJz4yPC9zcGFuPjwvc3Bhbj48L2I+PCEtLVtpZiBz
+dXBwb3J0RmllbGRzXT48Yg0Kc3R5bGU9J21zby1iaWRpLWZvbnQtd2VpZ2h0Om5vcm1hbCc+PHNw
+YW4gbGFuZz1FTi1HQiBzdHlsZT0nZm9udC1zaXplOjEwLjBwdDsNCm1zby1iaWRpLWZvbnQtc2l6
+ZToxMS4wcHQnPjxzcGFuIHN0eWxlPSdtc28tZWxlbWVudDpmaWVsZC1lbmQnPjwvc3Bhbj48L3Nw
+YW4+PC9iPjwhW2VuZGlmXS0tPjxzcGFuDQpsYW5nPUVOLUdCIHN0eWxlPSdmb250LXNpemU6MTAu
+MHB0O21zby1iaWRpLWZvbnQtc2l6ZToxMS4wcHQnPjxzcGFuDQpzdHlsZT0nbXNvLXRhYi1jb3Vu
+dDoxJz7CoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgIDwvc3Bhbj7CqQ0KVGhlIENhbGVuZGFyaW5nIGFuZCBTY2hlZHVsaW5nIENvbnNvcnRpdW0s
+IEluYy4mbmJzcDsyMDE4Jm5ic3A74oCTIEFsbCByaWdodHMgcmVzZXJ2ZWQ8bzpwPjwvbzpwPjwv
+c3Bhbj48L3A+DQoNCjwvZGl2Pg0KDQo8ZGl2IHN0eWxlPSdtc28tZWxlbWVudDpoZWFkZXInIGlk
+PWVoMj4NCg0KPHAgY2xhc3M9TXNvSGVhZGVyIGFsaWduPWxlZnQgc3R5bGU9J3RleHQtYWxpZ246
+bGVmdDtsaW5lLWhlaWdodDoxMi4wcHQ7DQptc28tbGluZS1oZWlnaHQtcnVsZTpleGFjdGx5Jz48
+c3BhbiBsYW5nPUVOLUdCPlRoZSBDYWxlbmRhcmluZyBhbmQgU2NoZWR1bGluZyBDb25zb3J0aXVt
+LCBJbmMuJm5ic3A7Q0MvRElSL0ZEUyAxMDAwMjoyMDE4OjIwMTg8L3NwYW4+PC9wPg0KDQo8L2Rp
+dj4NCg0KPGRpdiBzdHlsZT0nbXNvLWVsZW1lbnQ6aGVhZGVyJyBpZD1oMj4NCg0KPHAgY2xhc3M9
+TXNvSGVhZGVyIGFsaWduPXJpZ2h0IHN0eWxlPSd0ZXh0LWFsaWduOnJpZ2h0O2xpbmUtaGVpZ2h0
+OjEyLjBwdDsNCm1zby1saW5lLWhlaWdodC1ydWxlOmV4YWN0bHknPjxzcGFuIGxhbmc9RU4tR0I+
+VGhlIENhbGVuZGFyaW5nIGFuZCBTY2hlZHVsaW5nIENvbnNvcnRpdW0sIEluYy4mbmJzcDtDQy9E
+SVIvRkRTIDEwMDAyOjIwMTg6MjAxODwvc3Bhbj48L3A+DQoNCjwvZGl2Pg0KDQo8ZGl2IHN0eWxl
+PSdtc28tZWxlbWVudDpmb290ZXInIGlkPWVmMj4NCg0KPHAgY2xhc3M9TXNvRm9vdGVyIHN0eWxl
+PSdsaW5lLWhlaWdodDoxMi4wcHQ7bXNvLWxpbmUtaGVpZ2h0LXJ1bGU6ZXhhY3RseSc+PCEtLVtp
+ZiBzdXBwb3J0RmllbGRzXT48c3Bhbg0KbGFuZz1FTi1HQiBzdHlsZT0nZm9udC1zaXplOjEwLjBw
+dDttc28tYmlkaS1mb250LXNpemU6MTEuMHB0Jz48c3Bhbg0Kc3R5bGU9J21zby1lbGVtZW50OmZp
+ZWxkLWJlZ2luJz48L3NwYW4+PHNwYW4NCnN0eWxlPSdtc28tc3BhY2VydW46eWVzJz7CoDwvc3Bh
+bj5QQUdFPHNwYW4gc3R5bGU9J21zby1zcGFjZXJ1bjp5ZXMnPsKgwqANCjwvc3Bhbj5cKiBNRVJH
+RUZPUk1BVCA8c3BhbiBzdHlsZT0nbXNvLWVsZW1lbnQ6ZmllbGQtc2VwYXJhdG9yJz48L3NwYW4+
+PC9zcGFuPjwhW2VuZGlmXS0tPjxzcGFuDQpsYW5nPUVOLUdCIHN0eWxlPSdmb250LXNpemU6MTAu
+MHB0O21zby1iaWRpLWZvbnQtc2l6ZToxMS4wcHQnPjxzcGFuDQpzdHlsZT0nbXNvLW5vLXByb29m
+Onllcyc+aWk8L3NwYW4+PC9zcGFuPjwhLS1baWYgc3VwcG9ydEZpZWxkc10+PHNwYW4NCmxhbmc9
+RU4tR0Igc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQ7bXNvLWJpZGktZm9udC1zaXplOjExLjBwdCc+
+PHNwYW4NCnN0eWxlPSdtc28tZWxlbWVudDpmaWVsZC1lbmQnPjwvc3Bhbj48L3NwYW4+PCFbZW5k
+aWZdLS0+PHNwYW4gbGFuZz1FTi1HQg0Kc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQ7bXNvLWJpZGkt
+Zm9udC1zaXplOjExLjBwdCc+PHNwYW4gc3R5bGU9J21zby10YWItY291bnQ6DQoxJz7CoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgIDwvc3Bhbj7C
+qQ0KVGhlIENhbGVuZGFyaW5nIGFuZCBTY2hlZHVsaW5nIENvbnNvcnRpdW0sIEluYy4mbmJzcDsy
+MDE4Jm5ic3A74oCTIEFsbCByaWdodHMgcmVzZXJ2ZWQ8bzpwPjwvbzpwPjwvc3Bhbj48L3A+DQoN
+CjwvZGl2Pg0KDQo8ZGl2IHN0eWxlPSdtc28tZWxlbWVudDpmb290ZXInIGlkPWYyPg0KDQo8cCBj
+bGFzcz1Nc29Gb290ZXIgc3R5bGU9J2xpbmUtaGVpZ2h0OjEyLjBwdCc+PHNwYW4gbGFuZz1FTi1H
+Qg0Kc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQ7bXNvLWJpZGktZm9udC1zaXplOjExLjBwdCc+wqkg
+VGhlIENhbGVuZGFyaW5nIGFuZCBTY2hlZHVsaW5nIENvbnNvcnRpdW0sIEluYy4mbmJzcDsyMDE4
+Jm5ic3A74oCTIEFsbA0KcmlnaHRzIHJlc2VydmVkPHNwYW4gc3R5bGU9J21zby10YWItY291bnQ6
+MSc+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqAg
+PC9zcGFuPjwvc3Bhbj48IS0tW2lmIHN1cHBvcnRGaWVsZHNdPjxzcGFuDQpsYW5nPUVOLUdCIHN0
+eWxlPSdmb250LXNpemU6MTAuMHB0O21zby1iaWRpLWZvbnQtc2l6ZToxMS4wcHQnPjxzcGFuDQpz
+dHlsZT0nbXNvLWVsZW1lbnQ6ZmllbGQtYmVnaW4nPjwvc3Bhbj4gUEFHRTxzcGFuIHN0eWxlPSdt
+c28tc3BhY2VydW46eWVzJz7CoMKgDQo8L3NwYW4+XCogTUVSR0VGT1JNQVQgPHNwYW4gc3R5bGU9
+J21zby1lbGVtZW50OmZpZWxkLXNlcGFyYXRvcic+PC9zcGFuPjwvc3Bhbj48IVtlbmRpZl0tLT48
+c3Bhbg0KbGFuZz1FTi1HQiBzdHlsZT0nZm9udC1zaXplOjEwLjBwdDttc28tYmlkaS1mb250LXNp
+emU6MTEuMHB0Jz48c3Bhbg0Kc3R5bGU9J21zby1uby1wcm9vZjp5ZXMnPmlpaTwvc3Bhbj48L3Nw
+YW4+PCEtLVtpZiBzdXBwb3J0RmllbGRzXT48c3Bhbg0KbGFuZz1FTi1HQiBzdHlsZT0nZm9udC1z
+aXplOjEwLjBwdDttc28tYmlkaS1mb250LXNpemU6MTEuMHB0Jz48c3Bhbg0Kc3R5bGU9J21zby1l
+bGVtZW50OmZpZWxkLWVuZCc+PC9zcGFuPjwvc3Bhbj48IVtlbmRpZl0tLT48c3BhbiBsYW5nPUVO
+LUdCDQpzdHlsZT0nZm9udC1zaXplOjEwLjBwdDttc28tYmlkaS1mb250LXNpemU6MTEuMHB0Jz48
+bzpwPjwvbzpwPjwvc3Bhbj48L3A+DQoNCjwvZGl2Pg0KDQo8ZGl2IHN0eWxlPSdtc28tZWxlbWVu
+dDpmb290ZXInIGlkPWVmMz4NCg0KPHAgY2xhc3M9TXNvRm9vdGVyIHN0eWxlPSdtYXJnaW4tdG9w
+OjEyLjBwdDtsaW5lLWhlaWdodDoxMi4wcHQ7bXNvLWxpbmUtaGVpZ2h0LXJ1bGU6DQpleGFjdGx5
+Jz48IS0tW2lmIHN1cHBvcnRGaWVsZHNdPjxiIHN0eWxlPSdtc28tYmlkaS1mb250LXdlaWdodDpu
+b3JtYWwnPjxzcGFuDQpsYW5nPUVOLUdCIHN0eWxlPSdmb250LXNpemU6MTAuMHB0O21zby1iaWRp
+LWZvbnQtc2l6ZToxMS4wcHQnPjxzcGFuDQpzdHlsZT0nbXNvLWVsZW1lbnQ6ZmllbGQtYmVnaW4n
+Pjwvc3Bhbj48c3Bhbg0Kc3R5bGU9J21zby1zcGFjZXJ1bjp5ZXMnPsKgPC9zcGFuPlBBR0U8c3Bh
+biBzdHlsZT0nbXNvLXNwYWNlcnVuOnllcyc+wqDCoA0KPC9zcGFuPlwqIE1FUkdFRk9STUFUIDxz
+cGFuIHN0eWxlPSdtc28tZWxlbWVudDpmaWVsZC1zZXBhcmF0b3InPjwvc3Bhbj48L3NwYW4+PC9i
+PjwhW2VuZGlmXS0tPjxiDQpzdHlsZT0nbXNvLWJpZGktZm9udC13ZWlnaHQ6bm9ybWFsJz48c3Bh
+biBsYW5nPUVOLUdCIHN0eWxlPSdmb250LXNpemU6MTAuMHB0Ow0KbXNvLWJpZGktZm9udC1zaXpl
+OjExLjBwdCc+PHNwYW4gc3R5bGU9J21zby1uby1wcm9vZjp5ZXMnPjI8L3NwYW4+PC9zcGFuPjwv
+Yj48IS0tW2lmIHN1cHBvcnRGaWVsZHNdPjxiDQpzdHlsZT0nbXNvLWJpZGktZm9udC13ZWlnaHQ6
+bm9ybWFsJz48c3BhbiBsYW5nPUVOLUdCIHN0eWxlPSdmb250LXNpemU6MTAuMHB0Ow0KbXNvLWJp
+ZGktZm9udC1zaXplOjExLjBwdCc+PHNwYW4gc3R5bGU9J21zby1lbGVtZW50OmZpZWxkLWVuZCc+
+PC9zcGFuPjwvc3Bhbj48L2I+PCFbZW5kaWZdLS0+PHNwYW4NCmxhbmc9RU4tR0Igc3R5bGU9J2Zv
+bnQtc2l6ZToxMC4wcHQ7bXNvLWJpZGktZm9udC1zaXplOjExLjBwdCc+PHNwYW4NCnN0eWxlPSdt
+c28tdGFiLWNvdW50OjEnPsKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqAgPC9zcGFuPsKpDQpUaGUgQ2FsZW5kYXJpbmcgYW5kIFNjaGVkdWxpbmcg
+Q29uc29ydGl1bSwgSW5jLiZuYnNwOzIwMTgmbmJzcDvigJMgQWxsIHJpZ2h0cyByZXNlcnZlZDxv
+OnA+PC9vOnA+PC9zcGFuPjwvcD4NCg0KPC9kaXY+DQoNCjxkaXYgc3R5bGU9J21zby1lbGVtZW50
+OmZvb3RlcicgaWQ9ZjM+DQoNCjxwIGNsYXNzPU1zb0Zvb3RlciBzdHlsZT0nbGluZS1oZWlnaHQ6
+MTIuMHB0Jz48c3BhbiBsYW5nPUVOLUdCDQpzdHlsZT0nZm9udC1zaXplOjEwLjBwdDttc28tYmlk
+aS1mb250LXNpemU6MTEuMHB0Jz7CqSBUaGUgQ2FsZW5kYXJpbmcgYW5kIFNjaGVkdWxpbmcgQ29u
+c29ydGl1bSwgSW5jLiZuYnNwOzIwMTgmbmJzcDvigJMgQWxsDQpyaWdodHMgcmVzZXJ2ZWQ8c3Bh
+biBzdHlsZT0nbXNvLXRhYi1jb3VudDoxJz7CoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgIDwvc3Bhbj48L3NwYW4+PCEtLVtpZiBzdXBwb3J0Rmll
+bGRzXT48Yg0Kc3R5bGU9J21zby1iaWRpLWZvbnQtd2VpZ2h0Om5vcm1hbCc+PHNwYW4gbGFuZz1F
+Ti1HQiBzdHlsZT0nZm9udC1zaXplOjEwLjBwdDsNCm1zby1iaWRpLWZvbnQtc2l6ZToxMS4wcHQn
+PjxzcGFuIHN0eWxlPSdtc28tZWxlbWVudDpmaWVsZC1iZWdpbic+PC9zcGFuPg0KUEFHRTxzcGFu
+IHN0eWxlPSdtc28tc3BhY2VydW46eWVzJz7CoMKgIDwvc3Bhbj5cKiBNRVJHRUZPUk1BVCA8c3Bh
+bg0Kc3R5bGU9J21zby1lbGVtZW50OmZpZWxkLXNlcGFyYXRvcic+PC9zcGFuPjwvc3Bhbj48L2I+
+PCFbZW5kaWZdLS0+PGINCnN0eWxlPSdtc28tYmlkaS1mb250LXdlaWdodDpub3JtYWwnPjxzcGFu
+IGxhbmc9RU4tR0Igc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQ7DQptc28tYmlkaS1mb250LXNpemU6
+MTEuMHB0Jz48c3BhbiBzdHlsZT0nbXNvLW5vLXByb29mOnllcyc+Mzwvc3Bhbj48L3NwYW4+PC9i
+PjwhLS1baWYgc3VwcG9ydEZpZWxkc10+PGINCnN0eWxlPSdtc28tYmlkaS1mb250LXdlaWdodDpu
+b3JtYWwnPjxzcGFuIGxhbmc9RU4tR0Igc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQ7DQptc28tYmlk
+aS1mb250LXNpemU6MTEuMHB0Jz48c3BhbiBzdHlsZT0nbXNvLWVsZW1lbnQ6ZmllbGQtZW5kJz48
+L3NwYW4+PC9zcGFuPjwvYj48IVtlbmRpZl0tLT48c3Bhbg0KbGFuZz1FTi1HQiBzdHlsZT0nZm9u
+dC1zaXplOjEwLjBwdDttc28tYmlkaS1mb250LXNpemU6MTEuMHB0Jz48bzpwPjwvbzpwPjwvc3Bh
+bj48L3A+DQoNCjwvZGl2Pg0KDQo8L2JvZHk+DQoNCjwvaHRtbD4NCg==
+
+------=_NextPart_2d2b528e.1e2a.4e24--
