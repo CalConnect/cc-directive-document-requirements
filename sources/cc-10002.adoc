@@ -18,6 +18,12 @@
 
 
 include::sections/00-foreword.adoc[]
+
+[abstract]
+== Abstract
+
+This document provides requirements on the document structure of the following types of CalConnect publication: Directive, Standard, Guide, Specification, Amendment, Technical Corrigendum, and Report. It does not apply to policy statements, internal administrative documents, or how-to guides, although the processes described can optionally be used as guidance for those.
+
 include::sections/00-intro.adoc[]
 
 include::sections/01-scope.adoc[]
